@@ -1,3 +1,7 @@
+---
+title: Sessions
+---
+
 # Sessions
 
 One document per working session, dated. This is the running record of the project: what we
@@ -9,12 +13,11 @@ history and queue.
 
 ## Log
 
-*No sessions recorded yet. The first one goes here.*
-
 | Date | Session | What happened |
 |---|---|---|
+| 2026-07-12 | [Scaffolding the brain, and the first skill that didn't survive contact](2026-07-12-scaffolding-the-brain.md) | Built the brain's six areas. Set the weekend cadence. Killed the planned YouTube uploader after finding API uploads lock videos private forever — split the pipeline instead. |
 
-Newest first once there are entries.
+Newest first.
 
 ## Adding a session
 

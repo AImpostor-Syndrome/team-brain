@@ -8,7 +8,7 @@ role: Engineer. Co-host.
 
 ## Owns
 
-Team Brain and its structure. The IMPOSTRS.AI project direction.
+Team Brain and its structure. The AImpostor Syndrome project direction.
 
 ## Working with him
 

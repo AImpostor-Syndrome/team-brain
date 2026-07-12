@@ -1,3 +1,7 @@
+---
+title: Projects
+---
+
 # Projects
 
 One folder per project. Each folder's README is the project's front page: what it is, where
@@ -7,7 +11,7 @@ it stands, what's next.
 
 | Project | What it is | Status |
 |---|---|---|
-| [`impostrs-ai/`](impostrs-ai/) | The system that publishes the story of us building it | Phase 1 — Capture |
+| [`aimpostor-syndrome/`](aimpostor-syndrome/) | The system that publishes the story of us building it | Phase 1 — Capture |
 
 ## Adding a project
 

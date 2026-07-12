@@ -12,7 +12,7 @@ this file — don't keep both.
 
 ## What this repo is
 
-The shared memory of the IMPOSTRS.AI team: humans and agents. It holds the *reasoning*
+The shared memory of the AImpostor Syndrome team: humans and agents. It holds the *reasoning*
 artifacts — who we are, what we're building, what we decided and why, what happened in
 each session, and what our skills are contracted to do.
 

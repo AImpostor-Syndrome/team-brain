@@ -1,6 +1,10 @@
+---
+title: Team Brain
+---
+
 # Team Brain
 
-The shared memory of **IMPOSTRS.AI** — a team of humans and agents building AI-native
+The shared memory of **AImpostor Syndrome** — a team of humans and agents building AI-native
 software in public, one engineering session at a time.
 
 If you are an agent starting work here, read this page, then follow exactly one link
@@ -31,7 +35,7 @@ Two engineers, one live session a week. We document the real engineering process
 uncertainty, design debates, mistakes, experiments. The twist is that the thing we're
 building is the system that publishes the story of us building it.
 
-The full vision is in [`projects/impostrs-ai/`](projects/impostrs-ai/). The short version:
+The full vision is in [`projects/aimpostor-syndrome/`](projects/aimpostor-syndrome/). The short version:
 every capability becomes a reusable skill, the orchestrator composes them, and the AI takes
 on more of the work each week.
 
