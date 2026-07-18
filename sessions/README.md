@@ -15,6 +15,7 @@ history and queue.
 
 | Date | Session | What happened |
 |---|---|---|
+| 2026-07-18 | [Session 2 — TBD](2026-07-18-session-2.md) | *In progress — live doc.* |
 | 2026-07-12 | [Scaffolding the brain, and the first skill that didn't survive contact](2026-07-12-scaffolding-the-brain.md) | Built the brain's six areas. Set the weekend cadence. Killed the planned YouTube uploader after finding API uploads lock videos private forever — split the pipeline instead. |
 
 Newest first.
