@@ -1,3 +1,7 @@
+---
+title: Decisions
+---
+
 # Decisions
 
 Choices that would be expensive to revisit. One document each.
@@ -13,6 +17,9 @@ An agent about to contradict a past call should find it here first.
 
 | Date | Decision | Rules out |
 |---|---|---|
+| 2026-07-13 | [The project is AImpostor Syndrome — impostor with an "o"](0004-project-name.md) | The `imposter` spelling; the name IMPOSTRS.AI; extra defensive TLDs |
+| 2026-07-12 | [Session videos are uploaded by hand; we automate the metadata](0003-manual-youtube-upload.md) | `videos.insert`; browser-automating YouTube (ToS violation) |
+| 2026-07-12 | [Weekend sessions, one hour, option to run over](0002-weekend-sessions-one-hour.md) | Weeknight sessions; a hard 60-minute stop |
 | 2026-07-12 | [Team Brain holds reasoning, not code](0001-brain-holds-reasoning-not-code.md) | Skill scripts living in this repo |
 
 Newest first.

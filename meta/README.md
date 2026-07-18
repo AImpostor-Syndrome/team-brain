@@ -1,3 +1,7 @@
+---
+title: Meta
+---
+
 # Meta
 
 The rules about this repo. Read before adding a new area or changing how the brain is

@@ -1,3 +1,7 @@
+---
+title: Skills
+---
+
 # Skills
 
 The contract for each reusable capability. **Specs only** — the scripts that execute a
@@ -10,14 +14,14 @@ tooling already exists, and this is where it looks.
 
 ## Skills
 
-*None specified yet.*
-
 | Skill | Does | In | Out |
 |---|---|---|---|
+| [`scaffold-workspace`](scaffold-workspace.md) — **built** | Creates a workspace beside a clone: worktree, workbench, `.code-workspace` | Project + initiative name | Worktree on `build-<slug>`, paired workbench, plan card |
+| [`youtube-publish-session`](youtube-publish-session.md) — **proposed** | Sets a session video's title, description, playlist, thumbnail. **Does not upload** — see [`decisions/0003`](../decisions/0003-manual-youtube-upload.md) | Video ID + session doc | Video metadata matching the brain; URL written back |
 
-The candidates from the vision doc, none built: transcribe audio, summarize a discussion,
-generate a blog post, suggest podcast edits, publish a website, generate next week's tasks.
-Build one at a time, use it immediately.
+Still unbuilt, from the vision doc: transcribe audio, summarize a discussion, generate a blog
+post, suggest podcast edits, publish a website, generate next week's tasks. Build one at a
+time, use it immediately.
 
 ## Adding a skill
 

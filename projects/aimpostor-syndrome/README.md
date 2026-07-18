@@ -1,12 +1,18 @@
 ---
-title: IMPOSTRS.AI
+title: AImpostor Syndrome
 status: active
 phase: Phase 1 — Capture
 ---
 
-# IMPOSTRS.AI
+# AImpostor Syndrome
 
 > Building AI-native software in public, one engineering session at a time.
+
+**The name is spelled `impostor`, with an "o."** That is the standard spelling and the one
+used in the psychological term this project puns on. Everything canonical uses it:
+`aimpostorsyndrome.com`, the YouTube channel, the GitHub org. The `imposter` variant is a
+typo trap we already fell into once — see
+[`decisions/0004`](../../decisions/0004-project-name.md).
 
 Two engineers sit down for a live working session each week. Rather than producing polished
 tutorials, we document the real engineering process — uncertainty, design debates, mistakes,
@@ -15,8 +21,15 @@ story of us building it.
 
 ## Where it stands
 
-**Phase 1 — Capture.** Nothing built yet. Team Brain was scaffolded on 2026-07-12; that's
-the whole of it so far.
+**Phase 1 — Capture.** Team Brain was scaffolded on 2026-07-12 and now has its first session
+record, three decisions, and two skill specs — one built
+([`scaffold-workspace`](../../skills/scaffold-workspace.md)), one proposed
+([`youtube-publish-session`](../../skills/youtube-publish-session.md)).
+
+Publishing is the live edge. We found that YouTube locks API-uploaded videos to private
+permanently unless the project passes a compliance audit, so the upload stays manual and we
+automate the metadata around it — [`decisions/0003`](../../decisions/0003-manual-youtube-upload.md).
+Transcription and summarization, the expensive parts of Phase 1, are still unbuilt.
 
 ## What each session should eventually become
 
@@ -61,12 +74,15 @@ come to life.
 
 ## Out of scope / open
 
-Two things from the source doc are unresolved and worth pinning down in the next session,
-because they gate real design work:
+**Still open — the August build.** High-level requirements are undecided: video chat, or a
+text thread? Which providers? Phone app, web app, or both? This gates real design work and
+should be closed in an upcoming session.
 
-- **The August build.** High-level requirements are open — video chat? a text thread? which
-  providers? phone app, web app, or both?
-- **Development strategy.** Do not build the giant system. One skill at a time: improve one
-  capability, use it immediately, document the experience.
+**Closed 2026-07-12 — development strategy.** Confirmed: do not build the giant system. One
+skill at a time — improve one capability, use it immediately, document the experience. It
+earned its keep in the first session, where researching one skill before building it killed
+the wrong version of it ([session record](../../sessions/2026-07-12-scaffolding-the-brain.md)).
 
-Source: [`initial_docs/idea_for_project.md`](../../../initial_docs/idea_for_project.md).
+**Ruled out:** uploading session videos through the YouTube API, and browser-automating
+youtube.com to do the same. See [`decisions/0003`](../../decisions/0003-manual-youtube-upload.md)
+before proposing either.
