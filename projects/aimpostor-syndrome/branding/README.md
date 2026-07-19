@@ -15,6 +15,8 @@ self-contained bundles so each can be built into a full website version independ
 | [`aimpostor-syndrome-branding-avatar/`](aimpostor-syndrome-branding-avatar/) | **Source bundle** — the original Claude Design export (both directions + shared assets). The source of truth; leave it intact. |
 | [`option-gradient/`](option-gradient/) | **Jump-off — Gradient direction.** Violet→pink→coral, gradient-forward. Self-contained; hand to Claude Design to build a website. |
 | [`option-solid-violet/`](option-solid-violet/) | **Jump-off — Solid Violet direction.** One restrained violet, no gradients. Self-contained; hand to Claude Design to build a website. |
+| [`aimpostor-syndrome-homepage-color-gradient-version/`](aimpostor-syndrome-homepage-color-gradient-version/) | **Built homepage — Gradient.** Claude Design's homepage build from the Gradient direction. A candidate for issue #1. |
+| [`aimpostor-syndrome-homepage-pure-violet-version/`](aimpostor-syndrome-homepage-pure-violet-version/) | **Built homepage — Pure Violet.** Claude Design's homepage build from the Solid Violet direction. A candidate for issue #1. |
 
 ## The two directions at a glance
 
@@ -27,9 +29,9 @@ self-contained bundles so each can be built into a full website version independ
 
 ## The plan
 
-1. Jonathan hands each `option-*/` bundle + the [design brief](../specs/1a-github-pages.md) to
-   Claude Design → **two built website versions.**
-2. The builds land under `website-builds/<direction>/` (created when they exist), side by side.
-3. Nick (or Jonathan) picks one; its spec is attached to
+1. ✅ Jonathan handed each `option-*/` bundle + the [design brief](../specs/1a-github-pages.md)
+   to Claude Design → **two built homepage versions** (the two `homepage-*` folders above).
+2. **Nick picks one** of the two homepage builds.
+3. Its design spec is attached to
    [issue #1](https://github.com/AImpostor-Syndrome/website/issues/1) and built via
    `full-path-github`.
