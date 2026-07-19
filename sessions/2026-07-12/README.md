@@ -19,13 +19,13 @@ everything is a skill: a markdown spec plus scripts. That immediately raised the
 whether the scripts sit next to their specs. We decided they don't — this repo is read by
 agents at the start of a task, when context is scarce, and source code crowds out the things
 they actually come here for. Written up as
-[`decisions/0001`](../decisions/0001-brain-holds-reasoning-not-code.md).
+[`decisions/0001`](../../decisions/0001-brain-holds-reasoning-not-code.md).
 
 **Cadence.** The format only works if the sessions actually happen weekly — a slipping
 schedule means the AI's queue goes stale between them. Weekends work for both of us. An hour
 turned out to be enough to do real work and not enough to finish, which is the argument for
 booking one hour and allowing overflow rather than booking ninety minutes and making ninety
-minutes the floor. [`decisions/0002`](../decisions/0002-weekend-sessions-one-hour.md).
+minutes the floor. [`decisions/0002`](../../decisions/0002-weekend-sessions-one-hour.md).
 
 **Development strategy.** Confirmed, and it's the one that constrains everything else: do not
 build the giant system. One skill at a time — improve one capability, use it immediately,
@@ -36,12 +36,12 @@ unexpected way (below).
 
 The brain itself: six top-level areas (`team/`, `projects/`, `sessions/`, `skills/`,
 `decisions/`, `meta/`), each with a README that is an index rather than a file listing. The
-structure spec is at [`meta/structure-spec.md`](../meta/structure-spec.md) and is explicitly
+structure spec is at [`meta/structure-spec.md`](../../meta/structure-spec.md) and is explicitly
 provisional — it will be wrong within a month, and that's expected.
 
 Two skill specs, which is the first time this repo has done the job it exists for:
-[`scaffold-workspace`](../skills/scaffold-workspace.md) (built — it's what created this
-workspace) and [`youtube-publish-session`](../skills/youtube-publish-session.md) (proposed).
+[`scaffold-workspace`](../../skills/scaffold-workspace.md) (built — it's what created this
+workspace) and [`youtube-publish-session`](../../skills/youtube-publish-session.md) (proposed).
 
 Nick joined the team index.
 
@@ -49,9 +49,9 @@ Nick joined the team index.
 
 | Decision | The short version |
 |---|---|
-| [0001](../decisions/0001-brain-holds-reasoning-not-code.md) | The brain holds specs and reasoning; skill scripts live in the repos that ship them. |
-| [0002](../decisions/0002-weekend-sessions-one-hour.md) | Weekends, one hour, option to run over. Next: **2026-07-18/19**. The weekend of 2026-07-25/26 is out for both of us. |
-| [0003](../decisions/0003-manual-youtube-upload.md) | Session videos go up through the YouTube web UI by hand. We automate the metadata around them, not the upload. |
+| [0001](../../decisions/0001-brain-holds-reasoning-not-code.md) | The brain holds specs and reasoning; skill scripts live in the repos that ship them. |
+| [0002](../../decisions/0002-weekend-sessions-one-hour.md) | Weekends, one hour, option to run over. Next: **2026-07-18/19**. The weekend of 2026-07-25/26 is out for both of us. |
+| [0003](../../decisions/0003-manual-youtube-upload.md) | Session videos go up through the YouTube web UI by hand. We automate the metadata around them, not the upload. |
 
 ## The interesting failure
 

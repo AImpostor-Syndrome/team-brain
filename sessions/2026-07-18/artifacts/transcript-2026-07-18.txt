@@ -1,0 +1,4713 @@
+[Jonathan Wrobel] 10:08:02
+Transcript
+
+[Nick Ziegler] 10:08:05
+Oh, there you go.
+
+[Jonathan Wrobel] 10:08:10
+Save transcript.
+
+[Jonathan Wrobel] 10:08:12
+Okay.
+
+[Jonathan Wrobel] 10:08:15
+Let's keep it over there.
+
+[Nick Ziegler] 10:08:18
+Cool.
+
+[Jonathan Wrobel] 10:08:19
+Over there. All right. Okay. Now we are recording.
+
+[Nick Ziegler] 10:08:21
+All right.
+
+[Jonathan Wrobel] 10:08:27
+No.
+
+[Jonathan Wrobel] 10:08:30
+How was your, let's do our check-in. How was your week?
+
+[Nick Ziegler] 10:08:30
+Mm-hmm.
+
+[Nick Ziegler] 10:08:34
+Um, it was, uh, it was good.
+
+[Jonathan Wrobel] 10:08:35
+And I'll make it.
+
+[Jonathan Wrobel] 10:08:37
+Yeah.
+
+[Nick Ziegler] 10:08:37
+Yeah, um…
+
+[Nick Ziegler] 10:08:40
+Let's see, I applied to some jobs, had some interviews.
+
+[Jonathan Wrobel] 10:08:47
+What was the month?
+
+[Nick Ziegler] 10:08:51
+Uh, one was with this company called TrueMed.
+
+[Nick Ziegler] 10:08:54
+They are like, um…
+
+[Jonathan Wrobel] 10:08:54
+Okay?
+
+[Nick Ziegler] 10:08:58
+essentially like a payment option that health companies or companies that sell like health products can put on their website. And if you choose to pay with true med, then you can use your Hsa or Fsa like funds for it. If it's.
+
+[Jonathan Wrobel] 10:09:15
+Okay.
+
+[Nick Ziegler] 10:09:16
+If it's, like, an eligible item. And so, like, merchants have an incentive, because, like.
+
+[Nick Ziegler] 10:09:22
+people have… if people have FSA or HSA dollars, and they can buy, like, a Peloton with it, like, uh…
+
+[Nick Ziegler] 10:09:29
+or if you're thinking of buying a Peloton, and you have the ability to pay for it with these funds, like, then you definitely will probably do that, so…
+
+[Jonathan Wrobel] 10:09:37
+Yeah.
+
+[Nick Ziegler] 10:09:38
+Yeah, yeah. So they're one was with them. I had a.
+
+[Nick Ziegler] 10:09:43
+One with.
+
+[Jonathan Wrobel] 10:09:43
+How big is the cabbage? How big is the cabbage?
+
+[Nick Ziegler] 10:09:44
+Only like a hundred people.
+
+[Jonathan Wrobel] 10:09:47
+100 total or 100 engineers?
+
+[Nick Ziegler] 10:09:49
+100 total.
+
+[Nick Ziegler] 10:09:51
+And then I had a tech screen with Oracle.
+
+[Jonathan Wrobel] 10:09:55
+With Oracle.
+
+[Nick Ziegler] 10:09:56
+Yes, I have a big Nashville presence.
+
+[Jonathan Wrobel] 10:10:00
+They do.
+
+[Nick Ziegler] 10:10:01
+Yeah, so… yeah.
+
+[Jonathan Wrobel] 10:10:02
+How'd that go? What was that like then?
+
+[Nick Ziegler] 10:10:04
+That was good. It was not too hard.
+
+[Jonathan Wrobel] 10:10:07
+But they ask you.
+
+[Nick Ziegler] 10:10:10
+Let's see. This is being recorded. I might get…
+
+[Jonathan Wrobel] 10:10:14
+That's true. You can't you can't tell me.
+
+[Nick Ziegler] 10:10:15
+Yeah, it was… it was the kind of thing you'd find on LeetCode.
+
+[Jonathan Wrobel] 10:10:21
+On the code.
+
+[Nick Ziegler] 10:10:22
+Yeah.
+
+[Nick Ziegler] 10:10:24
+Yeah.
+
+[Jonathan Wrobel] 10:10:25
+Okay.
+
+[Nick Ziegler] 10:10:25
+But it was like, they didn't have test cases.
+
+[Jonathan Wrobel] 10:10:29
+Okay.
+
+[Nick Ziegler] 10:10:29
+Uh, and one of the problems was, uh.
+
+[Nick Ziegler] 10:10:32
+A problem that involved, uh…
+
+[Nick Ziegler] 10:10:34
+like, a tree, and… or, like, a binary tree, and, like…
+
+[Jonathan Wrobel] 10:10:36
+Yep.
+
+[Nick Ziegler] 10:10:40
+There's no… so, like, you had to write the… your own test case setting up.
+
+[Nick Ziegler] 10:10:46
+A tree, and it had to match the example in the problem, and you can't copy-paste, and so, like…
+
+[Jonathan Wrobel] 10:10:46
+Okay.
+
+[Nick Ziegler] 10:10:52
+At the hand right, this tree that had, like, 15 nodes in it, and…
+
+[Nick Ziegler] 10:10:58
+I mean, that was just part of the part of the setup, but I don't know.
+
+[Jonathan Wrobel] 10:11:02
+And it's not any of the same type at all. No AI.
+
+[Nick Ziegler] 10:11:05
+No AI. Yeah.
+
+[Jonathan Wrobel] 10:11:07
+Is it, like, remote? So, like, there's someone watching the whole time, or is it, like…
+
+[Nick Ziegler] 10:11:11
+Yeah, this was, uh, yeah, this was, um…
+
+[Nick Ziegler] 10:11:14
+There was, like, an interviewer. I've had other… or, yeah, I've done other ones where it's, like, remotely proctored.
+
+[Nick Ziegler] 10:11:22
+Or ones where…
+
+[Nick Ziegler] 10:11:25
+Just detects your you know, what you're doing. Like, if your mouse moves away from or you click on something outside the window.
+
+[Nick Ziegler] 10:11:33
+Then it, like, flags that.
+
+[Jonathan Wrobel] 10:11:35
+Hmm.
+
+[Nick Ziegler] 10:11:37
+But…
+
+[Jonathan Wrobel] 10:11:37
+What are the interviewers like?
+
+[Nick Ziegler] 10:11:42
+They're they're pretty nice. Yeah.
+
+[Jonathan Wrobel] 10:11:44
+Yeah.
+
+[Nick Ziegler] 10:11:47
+Yeah. Yeah.
+
+[Jonathan Wrobel] 10:11:48
+Do you get to meet who your manager would be or that's later down the line?
+
+[Nick Ziegler] 10:11:52
+Yeah, that's later down the line.
+
+[Jonathan Wrobel] 10:11:55
+Okay.
+
+[Nick Ziegler] 10:11:56
+Yeah.
+
+[Jonathan Wrobel] 10:11:56
+I imagine this one's gonna take a while. They're very, like, it's a big company, so they probably have a huge… a lot of…
+
+[Nick Ziegler] 10:12:01
+Yeah. I yeah. That's what if definitely with this one.
+
+[Nick Ziegler] 10:12:06
+it seems like most of the companies I interview with now, they have so many rounds. It's like 5…
+
+[Nick Ziegler] 10:12:13
+I'd say, like, minimum, like, 5 rounds.
+
+[Jonathan Wrobel] 10:12:15
+What role are you going for?
+
+[Nick Ziegler] 10:12:16
+Not counting, like, the…
+
+[Jonathan Wrobel] 10:12:17
+Are you going for senior or what's the what's the.
+
+[Nick Ziegler] 10:12:20
+I see.
+
+[Nick Ziegler] 10:12:21
+Yeah. Okay.
+
+[Nick Ziegler] 10:12:22
+Yeah. I'm going for just senior roles.
+
+[Jonathan Wrobel] 10:12:22
+Okay.
+
+[Jonathan Wrobel] 10:12:25
+Yep.
+
+[Nick Ziegler] 10:12:26
+Yeah. And it's like I mean, yeah, I would say, like, minimum 5. And maybe that's normal once you.
+
+[Nick Ziegler] 10:12:33
+get, I don't know, at least senior and upwards, like, the higher up you go, I'm sure it's just more…
+
+[Nick Ziegler] 10:12:40
+There are probably more around.
+
+[Jonathan Wrobel] 10:12:42
+Yeah, I don't know. I don't know if we do five rounds.
+
+[Nick Ziegler] 10:12:44
+I don't know.
+
+[Jonathan Wrobel] 10:12:46
+Can we do three? So I've talked, yeah, well, we probably shouldn't talk too much about employment here, but like, 'cause we're recording as well, but yeah, we'll talk about that offline.
+
+[Nick Ziegler] 10:12:53
+Yeah, we could…
+
+[Nick Ziegler] 10:12:55
+We could cut it off… we could cut it out, too, or will that be too difficult? Or we could just, like…
+
+[Jonathan Wrobel] 10:12:55
+Yep.
+
+[Jonathan Wrobel] 10:13:01
+Oh, talk about cut it out of the video, you mean?
+
+[Nick Ziegler] 10:13:05
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:13:05
+We could, but then we have to do something manually. So let's, we'll do.
+
+[Nick Ziegler] 10:13:07
+Yeah.
+
+[Nick Ziegler] 10:13:10
+Yeah, that sounds good.
+
+[Jonathan Wrobel] 10:13:11
+But eventually, that should be… we want that. That's, I think, one of the features that I want to build, is auto-editing of the video, um, based on the transcript and the timeline of it. I'm sure it exists. But, um…
+
+[Nick Ziegler] 10:13:17
+Yes.
+
+[Nick Ziegler] 10:13:18
+Mm-hmm.
+
+[Nick Ziegler] 10:13:24
+Yeah.
+
+[Nick Ziegler] 10:13:26
+Yeah.
+
+[Jonathan Wrobel] 10:13:27
+Okay.
+
+[Jonathan Wrobel] 10:13:31
+Fun. Well, how's your spirit with it? Are you up, down?
+
+[Nick Ziegler] 10:13:35
+Yeah. Yeah, I would say… I would say up, um…
+
+[Nick Ziegler] 10:13:40
+I just want to get further along.
+
+[Nick Ziegler] 10:13:46
+Like, with TrueVet, I actually heard back, and I was very surprised that I didn't.
+
+[Nick Ziegler] 10:13:50
+I just received the next round, and it was, like, a, uh…
+
+[Nick Ziegler] 10:13:54
+It was like a manager interview. It's one of those where like, I thought it went well and then was surprised that to learn that maybe it didn't go well. Uh, yeah.
+
+[Jonathan Wrobel] 10:14:01
+They did. Okay.
+
+[Jonathan Wrobel] 10:14:02
+Did you ask why?
+
+[Nick Ziegler] 10:14:04
+I'm gonna see if I can get feedback, yeah.
+
+[Nick Ziegler] 10:14:07
+I mean, I think one of the…
+
+[Nick Ziegler] 10:14:11
+I don't know. I have I have my stories, but I think.
+
+[Nick Ziegler] 10:14:15
+maybe my stories weren't as strong as they could have been. One of them was, like, a tricky bug that you came across, or that you had to, you know, figure out.
+
+[Nick Ziegler] 10:14:26
+Um, and I feel like I just hadn't talked… I hadn't rehearsed that one enough, and so I didn't, like…
+
+[Nick Ziegler] 10:14:31
+Get the interesting details down, that would make…
+
+[Nick Ziegler] 10:14:35
+You know, that make you sound stronger technically, because you can speak to those things, and uh…
+
+[Nick Ziegler] 10:14:42
+Yeah, just haven't practiced it, you know, so.
+
+[Jonathan Wrobel] 10:14:42
+Yeah.
+
+[Jonathan Wrobel] 10:14:46
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:14:46
+Okay. Well, we'll have to save some spots for you to talk about it here, your tricky bugs. We'll talk about tricky bugs. That'll be a good thing. Well.
+
+[Nick Ziegler] 10:14:47
+But…
+
+[Nick Ziegler] 10:14:54
+Yeah.
+
+[Jonathan Wrobel] 10:14:56
+Okay.
+
+[Jonathan Wrobel] 10:14:58
+Let's see. How was my week? I'm going to ask myself. How was my week? How was my week, Nick? It was good.
+
+[Nick Ziegler] 10:15:02
+How's your week?
+
+[Jonathan Wrobel] 10:15:09
+You know, I didn't have my daughter to… from Wednesday on, so…
+
+[Jonathan Wrobel] 10:15:13
+And then I got a good like.
+
+[Jonathan Wrobel] 10:15:16
+It's been a mixture of I'm trying for, like, working stuff.
+
+[Jonathan Wrobel] 10:15:22
+I am… we have a new team member, just moved over from another team, um, so that's… now we have 3 engineers, which… including me, um…
+
+[Jonathan Wrobel] 10:15:31
+And I got this project that…
+
+[Jonathan Wrobel] 10:15:35
+I kind of feel like it's… I've been building this tool to make it easy to, like, create, um…
+
+[Jonathan Wrobel] 10:15:43
+use LLMs to classify data, like, at scale, and uh…
+
+[Jonathan Wrobel] 10:15:50
+At the… it's…
+
+[Jonathan Wrobel] 10:15:54
+It's like, up to this point, it's still a theory that it actually works, and I haven't had, like, full time to get it over the line, and like, so I have to do it this weekend. So I worked on it yesterday, um, and I'll probably work it on after this, and I need to get it…
+
+[Jonathan Wrobel] 10:16:11
+I need to see if my theory is accurate, if really this thing works, um, because, like, a lot of my, kind of, big proposals for the company, like, are a little bit based on this thing working, and, like.
+
+[Jonathan Wrobel] 10:16:24
+I… it should, in theory, work, but I haven't.
+
+[Jonathan Wrobel] 10:16:28
+completed the…
+
+[Jonathan Wrobel] 10:16:30
+the line all the way. And… we'll see. So that's, like, that was that. Um…
+
+[Nick Ziegler] 10:16:35
+What is it classifying?
+
+[Jonathan Wrobel] 10:16:38
+it's basically, like, a self-teaching, like, LLM trainer. Uh, it's like, um… it should basically… my theory is that if you have a annotated queue.
+
+[Nick Ziegler] 10:16:39
+What's the data?
+
+[Jonathan Wrobel] 10:16:53
+of an annotated queue of data, um, and we'll… we'll put the… we'll do some of this stuff directly. I mean, I might try to, like, take it and just open source it, but I don't know, I have to find.
+
+[Jonathan Wrobel] 10:17:03
+Or I have to, like, see how to do that.
+
+[Jonathan Wrobel] 10:17:05
+Because I want to use it for this stuff. Um, but, uh…
+
+[Jonathan Wrobel] 10:17:11
+It's kind of like just machine learning, essentially, like old classified, like machine learning, but using LLMs. So like machine learning in the past is like, okay, you get like an annotated data set and then you train a model to like classify this or that, right? You ever played with that at all? You ever done it?
+
+[Nick Ziegler] 10:17:27
+Yes.
+
+[Jonathan Wrobel] 10:17:27
+like, visual stuff on, like, they have some trainings on Hugging Face, which that's, like.
+
+[Nick Ziegler] 10:17:33
+Right.
+
+[Jonathan Wrobel] 10:17:33
+But…
+
+[Nick Ziegler] 10:17:34
+Yeah. Mhmm.
+
+[Jonathan Wrobel] 10:17:35
+And so I just kind of, you know.
+
+[Jonathan Wrobel] 10:17:40
+I'm, like, winding my way back… like, I'm not trained in this stuff, but I'm winding my way back to how to solve this problem. I'm just, like, recreating patterns that already exist, which, for better or for worse. Um, but I'm.
+
+[Jonathan Wrobel] 10:17:51
+And, um…
+
+[Jonathan Wrobel] 10:17:54
+The idea is that, like.
+
+[Jonathan Wrobel] 10:17:57
+Fundamentally, if you have a data set that is… this… we'll take it very specifically with the actual policy we're doing, it's like, when do we route messages from a coach to a member support person?
+
+[Jonathan Wrobel] 10:18:08
+And how do we determine whether that message or conversation is, um, actually something you want to route or not?
+
+[Jonathan Wrobel] 10:18:17
+and.
+
+[Jonathan Wrobel] 10:18:18
+So you can… and there's, you know, I've done different levels. You first start with the data that you do have, and then you look at which ones they've already routed, and then you… I pull that, and then I look for patterns that can I… can LLM basically, like, look at the language as being saying and define whether it is or not.
+
+[Nick Ziegler] 10:18:35
+Yeah.
+
+[Jonathan Wrobel] 10:18:36
+Um, and then, like, what are they routing it for? Can it do all those things? And then, um…
+
+[Jonathan Wrobel] 10:18:42
+And then what you're doing is taking basically, you know, the way that a model can do it accurately is you're giving it prompt instructions. You can also build a classifier, which I'm curious to do eventually, but that's, I haven't, but that, you know, which would ultimately be cheaper, but like, like a BERT classifier, which I know a little bit about, but not a lot.
+
+[Nick Ziegler] 10:18:50
+Okay.
+
+[Jonathan Wrobel] 10:19:00
+But the, uh… but the other idea is, like, you just have an LLM, you say, this is what your policy is, look at these words and define whether this or not is that. Uh…
+
+[Nick Ziegler] 10:19:00
+Oh, cool.
+
+[Nick Ziegler] 10:19:09
+Yeah, okay.
+
+[Jonathan Wrobel] 10:19:10
+So it's that. And, but the idea is, can I basically just do like, do I, can I automate everything except the, like the annotating of the data to the point where like, can I find a way where, and like Opus.
+
+[Jonathan Wrobel] 10:19:27
+or Claude, just it does the prompts engineering, basically.
+
+[Jonathan Wrobel] 10:19:31
+So, it basically takes the data, looks at the patterns, does it itself, and then writes the prompt, and then, as long as we have… and then also writes the prompt for both, like, the inference, as well as the judge. So, it's like, it goes back and forth. So, it's like, as long as you have a good judge, then you can, like.
+
+[Nick Ziegler] 10:19:44
+Oh.
+
+[Jonathan Wrobel] 10:19:49
+iterate over and over and over again on the prompts, and then the feedback you get, the judge is like, this failed because of this, and it gives you the reasoning, and then the… and then the LLM is like, okay, I gotta adjust the instructions to take account for this pattern that's now showed up, and then it writes that thing.
+
+[Jonathan Wrobel] 10:20:04
+And then it goes back and forth, and can you basically just have it all be done without much human stuff? Um…
+
+[Jonathan Wrobel] 10:20:14
+Uh, and all you need is, like, the annotated queue. I'm finding that's not totally the case. Um, but I'm finding that, like.
+
+[Nick Ziegler] 10:20:19
+Okay.
+
+[Jonathan Wrobel] 10:20:21
+And then…
+
+[Jonathan Wrobel] 10:20:24
+The question is, how expensive is that judge to run? When do you do it? Yeah. But yeah, so that's what I've been — it's a theory.
+
+[Nick Ziegler] 10:20:32
+Mm-hmm, mm-hmm.
+
+[Jonathan Wrobel] 10:20:33
+I'm, like, afraid that, like, it's someone's… AutoResearch is this other… this thing that this guy made? AutoResearch. Have you heard of it?
+
+[Nick Ziegler] 10:20:39
+Uh-huh.
+
+[Nick Ziegler] 10:20:41
+No.
+
+[Jonathan Wrobel] 10:20:44
+Carpathy.
+
+[Jonathan Wrobel] 10:20:47
+Let's just share my screen.
+
+[Nick Ziegler] 10:20:53
+Oh, interesting.
+
+[Jonathan Wrobel] 10:20:56
+And…
+
+[Jonathan Wrobel] 10:20:57
+I heard him talk about it, and, like, after I had started, I was like, oh, it's kind of basically he's doing it for actually training models, which is, like, essentially similar.
+
+[Jonathan Wrobel] 10:21:08
+What am I trying to share here? I'm trying to share, my screen.
+
+[Jonathan Wrobel] 10:21:15
+Yeah. So, auto research. One day, Frontier used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while, interconnect.
+
+[Jonathan Wrobel] 10:21:25
+There's long gone, which is now a tiny domain. Autonomous swarms of AI agents. So give an agent a small but real LLM training setup and let it experiment autonomously overnight. It modifies the code, trains for five minutes, checks to see if the result improves, keeps, discards, repeats. You wake up in the morning and get a log of experiments and a better model. So they're training an actual model, like.
+
+[Jonathan Wrobel] 10:21:45
+Um, which I haven't done yet. I haven't actually used this, but I was…
+
+[Jonathan Wrobel] 10:21:50
+I'm not training the model, I'm training, like, I'm using it just to train, like, the prompts that go into the model. I think this is… I'm curious, the next step will be to do this and play with it. Maybe we can do it in one of our sessions, uh, for something.
+
+[Nick Ziegler] 10:22:03
+Yep.
+
+[Nick Ziegler] 10:22:04
+Cool.
+
+[Jonathan Wrobel] 10:22:05
+But it… I actually built something that's similar like this, but it has a little bit more. Um, so we'll see.
+
+[Nick Ziegler] 10:22:10
+Mm-hmm.
+
+[Jonathan Wrobel] 10:22:12
+But I have to see if I can get it over the line. But more fun, I saw the Odyssey yesterday, and I went to a birthday party on Thursday. That was wild. It's like my first product manager from 10 years ago at great schools.
+
+[Nick Ziegler] 10:22:18
+No.
+
+[Nick Ziegler] 10:22:26
+Oh, wow.
+
+[Jonathan Wrobel] 10:22:27
+And I haven't talked to him for a few years, um…
+
+[Jonathan Wrobel] 10:22:32
+Uh, we won't mention his name, so I won't blast him out, but he's amazing, I like him. He's, but he's, you know, and I haven't seen him for a few years, and he had his 50th birthday at this bar in San Francisco, where he got to perform, uh, he played guitar for the Guns N' R.
+
+[Jonathan Wrobel] 10:22:46
+Which was a lot of fun.
+
+[Nick Ziegler] 10:22:49
+That's, um…
+
+[Jonathan Wrobel] 10:22:49
+So that was fun. So that was what, um… I should close this *** or not. Um, that… yeah. But that… today, I'm just gonna…
+
+[Jonathan Wrobel] 10:22:58
+See if I can finish. I call mine prompt bench. I gotta get prompt bench to work. It's like a bench for prompts.
+
+[Nick Ziegler] 10:23:04
+Uh-huh.
+
+[Jonathan Wrobel] 10:23:07
+Bench up.
+
+[Nick Ziegler] 10:23:08
+I I like it.
+
+[Jonathan Wrobel] 10:23:09
+I have a lot of workbenches and workshops, and you'll see it, like, in, like, scaffolding workshops, I don't know, it's.
+
+[Nick Ziegler] 10:23:11
+Workbenches. Uh-huh.
+
+[Nick Ziegler] 10:23:17
+I like it. I like the literal, you know, it helps you visualize what's what's happening. It's a real thing.
+
+[Jonathan Wrobel] 10:23:22
+Yeah.
+
+[Jonathan Wrobel] 10:23:24
+The visualization thing is really interesting, because I, like, the thing that I started doing recently is, like, because I'm not writing the prompts, and I don't really want to write that in English, but I still want a really quick way to understand how they evolve, so I started representing them in HTML as well.
+
+[Jonathan Wrobel] 10:23:38
+So it's like, okay, what are the policies? What are the differences? As you iterate through it, can I just see the changes over time? Because it's… otherwise, you have to read a lot of words. It's like…
+
+[Jonathan Wrobel] 10:23:48
+And it's not necessarily… it's harder to actually understand, I think, or it takes longer, but… so that's something I figured out this week. I don't know. I was like, maybe I'll just give the HTML to the model and see if that does a better job, but I don't know. We'll.
+
+[Nick Ziegler] 10:23:48
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:24:01
+All right.
+
+[Jonathan Wrobel] 10:24:02
+We are at 1020. We've done lots of catch up. Well, I thought.
+
+[Nick Ziegler] 10:24:03
+Cool.
+
+[Jonathan Wrobel] 10:24:08
+we should do… I know we did an intro, but we should, like, why do you… we should… did you get my, like… did you see I merged in, like, a possible…
+
+[Jonathan Wrobel] 10:24:16
+Uh, agenda for today?
+
+[Nick Ziegler] 10:24:18
+Um, oh, I did not. I was looking in our Slack, yeah.
+
+[Jonathan Wrobel] 10:24:21
+All right.
+
+[Jonathan Wrobel] 10:24:23
+I didn't put it in. I just merged it into our thing. Let's go to our brain, which —.
+
+[Nick Ziegler] 10:24:24
+Yeah. Okay.
+
+[Nick Ziegler] 10:24:28
+I will.
+
+[Jonathan Wrobel] 10:24:29
+I'll stop sharing, and then I'll find it. But, I mean, the highlight of it is that let's, uh…
+
+[Jonathan Wrobel] 10:24:37
+let's talk a little bit about why we're… why we're doing this, who we are. If this is, like… let's do 5 minutes where we pretend we're actually on a podcast, and introduce ourselves.
+
+[Nick Ziegler] 10:24:47
+Okay.
+
+[Jonathan Wrobel] 10:24:48
+What do you think?
+
+[Nick Ziegler] 10:24:50
+Yeah. Okay. Let's…
+
+[Jonathan Wrobel] 10:24:51
+Yeah? Yeah? You didn't know? This is, this is, you have to start talking a lot. You're in the podcast now, my friend.
+
+[Nick Ziegler] 10:24:57
+That's right, that's right. Okay, who should go first?
+
+[Jonathan Wrobel] 10:25:02
+Um, I think I well, you wanted to flip a coin?
+
+[Jonathan Wrobel] 10:25:07
+I don't know. I think I have the coin somewhere.
+
+[Jonathan Wrobel] 10:25:10
+Or do you — You flip a digital coin. Come on.
+
+[Nick Ziegler] 10:25:13
+I was going to say a digital coin. Yeah.
+
+[Jonathan Wrobel] 10:25:15
+Digital…
+
+[Jonathan Wrobel] 10:25:18
+Coin flip.
+
+[Nick Ziegler] 10:25:21
+Okay.
+
+[Jonathan Wrobel] 10:25:21
+All right, flipping. Okay, head to tails.
+
+[Nick Ziegler] 10:25:23
+Ahead.
+
+[Jonathan Wrobel] 10:25:24
+Okay. We should we should this this this we can review.
+
+[Jonathan Wrobel] 10:25:28
+We'll share this for the drama of aspect of it all.
+
+[Jonathan Wrobel] 10:25:31
+All right, flip again.
+
+[Jonathan Wrobel] 10:25:35
+All right, here we go.
+
+[Jonathan Wrobel] 10:25:37
+It kind of looks like an Athena thing. All right, look at you. You're up.
+
+[Nick Ziegler] 10:25:41
+That's all right.
+
+[Jonathan Wrobel] 10:25:42
+Okay. So, I mean, introduce… I mean, we don't have to get crazy, just introduce, like, who you are, what you're hoping to get out of this, why you're doing it, or anything else, yeah, that all our listeners want to know.
+
+[Nick Ziegler] 10:25:52
+Yeah.
+
+[Nick Ziegler] 10:25:55
+Sure. I'm Nick Ziegler, a software engineer. I live in Nashville, Tennessee. I met Jonathan…
+
+[Nick Ziegler] 10:26:05
+Probably…
+
+[Nick Ziegler] 10:26:07
+Who ate?
+
+[Nick Ziegler] 10:26:08
+Nine years ago.
+
+[Nick Ziegler] 10:26:10
+Nine, almost 10 years ago, back at Omada Health. And Omada is where I got into software engineering.
+
+[Nick Ziegler] 10:26:18
+Um, I wasn't a software engineer for a little bit while working at Omada, and then switched into it. Um, and…
+
+[Nick Ziegler] 10:26:25
+What I'm hoping to get out of this is, uh…
+
+[Nick Ziegler] 10:26:30
+Uh, like…
+
+[Nick Ziegler] 10:26:31
+you know, getting hands… more hands-on, and, like, exploring and tinkering more on my own, and also with, like, a partner. Um…
+
+[Nick Ziegler] 10:26:44
+And… you know, a place where we can…
+
+[Nick Ziegler] 10:26:50
+Uh, help each other grow.
+
+[Nick Ziegler] 10:26:53
+you know, health… like, challenge each other in, like, healthy ways, uh…
+
+[Nick Ziegler] 10:26:58
+And, yeah, it just.
+
+[Nick Ziegler] 10:27:00
+Collaborate and have fun.
+
+[Nick Ziegler] 10:27:02
+And, yeah, that's that's what I'm here for.
+
+[Jonathan Wrobel] 10:27:08
+That's, yeah, that's what we're here for. Can I ask you a question? Why do you, do you, do you sign, first of all, do you sign off on our, our branding name? Imposter syndrome.
+
+[Nick Ziegler] 10:27:11
+Sure.
+
+[Nick Ziegler] 10:27:18
+Hmm…
+
+[Jonathan Wrobel] 10:27:19
+And if so, why?
+
+[Nick Ziegler] 10:27:20
+Yeah.
+
+[Jonathan Wrobel] 10:27:20
+I know why it means something to me, but I'm curious.
+
+[Nick Ziegler] 10:27:24
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:27:26
+Yeah.
+
+[Nick Ziegler] 10:27:27
+Yeah, I mean…
+
+[Nick Ziegler] 10:27:30
+I I like it. I like that it's a.
+
+[Nick Ziegler] 10:27:34
+I don't know if it's technically a pun, but, like.
+
+[Nick Ziegler] 10:27:38
+Uh, an imposter syndrome… like, right, I think the philosophy of, like, learning, you know, on this, like…
+
+[Nick Ziegler] 10:27:45
+Learning publicly and admitting our…
+
+[Nick Ziegler] 10:27:51
+our own imposter syndrome or putting it out in the open and being like.
+
+[Nick Ziegler] 10:27:57
+I don't know. Here's what I… Here's what I don't know. And…
+
+[Jonathan Wrobel] 10:28:01
+Oh, so scary.
+
+[Nick Ziegler] 10:28:06
+Yeah, for all the millions of listeners.
+
+[Jonathan Wrobel] 10:28:10
+Yeah. Okay.
+
+[Nick Ziegler] 10:28:11
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:28:12
+I mean, I'm I was being sincere. It is good. Yeah. Okay.
+
+[Nick Ziegler] 10:28:16
+Yeah, I like it.
+
+[Nick Ziegler] 10:28:18
+I mean, like, I also don't want to, like, spend too much time… like, I also want to jump in, but I know the brand is also…
+
+[Nick Ziegler] 10:28:25
+It's, you know.
+
+[Jonathan Wrobel] 10:28:25
+I don't know. We'll jump in. We'll get there. All right. We'll do two minutes and then we'll jump.
+
+[Nick Ziegler] 10:28:30
+Oh, yeah.
+
+[Jonathan Wrobel] 10:28:32
+Um… thank you. I think everyone will love it. Alright, I… I'll be real quick, Jonathan. I…
+
+[Jonathan Wrobel] 10:28:38
+also, like, I am not a traditionally trained software engineer like, uh, Nick. He also went to a boot camp. I went to a boot camp maybe a year or two before him. Um, I had the pleasure of…
+
+[Jonathan Wrobel] 10:28:50
+working on Nick with, like… because he had a… we both worked on, like, the coaching engineering team for Amada, um, early on when I… and it was, um…
+
+[Jonathan Wrobel] 10:29:01
+I don't know, Nick was someone who just liked to build, like, I think you built, you liked to build stuff before, I think you just liked the, I don't know, I saw, just like solving the problems. And, oh, I think we shared the same thing. My, I think the first time I really coded and got paid for it was when I worked for the city of San Francisco and I created like a very complex.
+
+[Jonathan Wrobel] 10:29:22
+Uh, Google spreadsheet that used macros to, like, auto-sort, um, uh, what's it called? Um…
+
+[Jonathan Wrobel] 10:29:30
+yeah, auto-sort applications for funding that came in, and quickly distribute them among all of our readers. And, like, I didn't really know, like, how much easier it would have been if I had just had, like, just used Python or something like that, but instead I was doing it all as, like, in a, like, a Excel script, VBA script. And this is before.
+
+[Jonathan Wrobel] 10:29:52
+I think there was already available that much stuff online. Like, I don't think, like, that was, like, 12 years ago, 13 years ago. I don't even think, what's it called? Stack Overflow was that helpful back then.
+
+[Nick Ziegler] 10:30:02
+Uh-huh.
+
+[Jonathan Wrobel] 10:30:04
+Yeah, which I feel like is what you did, too. Like, I saw you, like, you… because you created a huge spreadsheet that, like, helped manage a bunch of stuff for the coach operations that is still in play today. I think your spreadsheet is still…
+
+[Nick Ziegler] 10:30:05
+Yeah. Yeah. Right.
+
+[Jonathan Wrobel] 10:30:18
+It's been like, I mean, it's like evolved past, I think our company's finally moving. Yeah, we won't talk about that 'cause it's a whole other story, but we should at some point.
+
+[Nick Ziegler] 10:30:18
+Oh, my goodness. Wow.
+
+[Nick Ziegler] 10:30:22
+I'm sure.
+
+[Nick Ziegler] 10:30:27
+I'm so curious.
+
+[Jonathan Wrobel] 10:30:27
+The link?
+
+[Jonathan Wrobel] 10:30:29
+the… yeah, the… yeah. Business logic put into spreadsheets in the most complicated way possible, but… I mean, some… yeah. That, um…
+
+[Nick Ziegler] 10:30:38
+Yeah, that's… I mean, similar. That's… that's, uh, how I…
+
+[Jonathan Wrobel] 10:30:43
+Yeah.
+
+[Nick Ziegler] 10:30:43
+Realized, you know, and I realized I was like, oh, uh.
+
+[Nick Ziegler] 10:30:46
+it's really fun to build things, and uh… I didn't have anyone guiding me or anything, you just figure it out on your own, and the thrill of, like…
+
+[Jonathan Wrobel] 10:30:54
+The dopamine. The dopamine.
+
+[Nick Ziegler] 10:30:55
+Imagining something and then doing, and then…
+
+[Nick Ziegler] 10:30:57
+Creating it? Yeah. And I was like, oh.
+
+[Jonathan Wrobel] 10:30:58
+Yeah.
+
+[Nick Ziegler] 10:31:01
+Hopefully, I'm making my team's lives easier, so they just, like…
+
+[Nick Ziegler] 10:31:07
+You know, click a button, and then it…
+
+[Nick Ziegler] 10:31:09
+Makes a report, which I don't know if it ever got to be. I doubt it was ever that simple, but.
+
+[Nick Ziegler] 10:31:17
+Yeah.
+
+[Jonathan Wrobel] 10:31:19
+Yeah.
+
+[Nick Ziegler] 10:31:19
+It's good.
+
+[Jonathan Wrobel] 10:31:19
+So, I say, yeah, imposter syndrome. I like it because… well, I actually… this could be wrong, Ryan. I think I remember we had the idea of doing this.
+
+[Jonathan Wrobel] 10:31:30
+Years ago. Do you remember this?
+
+[Nick Ziegler] 10:31:32
+Really? Okay. Um…
+
+[Jonathan Wrobel] 10:31:33
+I don't know if I'm… I don't know if I'm making up the memory or not, but I have a vague memory of proposing this to you years ago, also having it be imposter syndrome, where we talk about stuff.
+
+[Nick Ziegler] 10:31:36
+Hmm.
+
+[Jonathan Wrobel] 10:31:44
+And that you saying yes, and me just never doing it. And I… this could be complete fabrication in my brain, but I actually feel like it actually is true.
+
+[Jonathan Wrobel] 10:31:52
+Um, so either way, this is just our destiny, maybe. But I feel like it's a good time to do it, because I think with AI.
+
+[Jonathan Wrobel] 10:32:01
+Imposter syndrome is it's, like, both real and not real. It's, like, it's amazing how in some ways it frees me from imposter syndrome because I don't I can I can admit to everything I don't know to something that knows a lot without having any fear or judgment. So I actually really enjoy that aspect of it, and get and so, like, in some ways, it's like, oh, I can I don't know now, but I can ask and learn and figure out.
+
+[Nick Ziegler] 10:32:23
+Yeah.
+
+[Jonathan Wrobel] 10:32:24
+enough to at least sound like I know, so that can fight the imposter syndrome. Um… and then also, I think no one knows how to build with this stuff yet, anyways. So, like, anyone who's, like, praying to be an expert probably is…
+
+[Jonathan Wrobel] 10:32:36
+actually being an imposter. So they're actually… so let's just… that's why I like to lean into the I'm imposter syndrome, and then.
+
+[Nick Ziegler] 10:32:39
+Yeah.
+
+[Nick Ziegler] 10:32:43
+Mm-hmm.
+
+[Jonathan Wrobel] 10:32:44
+And it has, obviously, clever… I don't know, is it a pun? We have to figure this out. We'll have to ask AI. Is AI imposter syndrome a pun, or what is it? Is it… it's not a simile or metaphor.
+
+[Nick Ziegler] 10:32:56
+Uh-huh. Right, right.
+
+[Jonathan Wrobel] 10:32:57
+It's a lyrical Odysseus phrase, is what it is. It is.
+
+[Jonathan Wrobel] 10:33:02
+It's the siren call. Man, you should go see the Odyssey. That's the other takeaway. Go see the Odyssey in the theater.
+
+[Nick Ziegler] 10:33:06
+Okay, yeah.
+
+[Jonathan Wrobel] 10:33:08
+Don't see it at home. Just don't do it. Don't treat yourself with experience. All right.
+
+[Nick Ziegler] 10:33:09
+Yeah.
+
+[Nick Ziegler] 10:33:10
+Mm-hmm. Mm-hmm. Mm.
+
+[Nick Ziegler] 10:33:13
+Okay.
+
+[Jonathan Wrobel] 10:33:13
+Okay, so I think we did that. Who knows if anyone will ever listen to that in the world? Probably not, but that was fun. We got to pretend.
+
+[Nick Ziegler] 10:33:20
+That was fun. Yeah. Me too.
+
+[Jonathan Wrobel] 10:33:21
+For me, but…
+
+[Jonathan Wrobel] 10:33:24
+Okay, um, let's jump into what our goal is then. Um, I have our team brain up, and my last MR, I put, like, a sessions thing, and…
+
+[Jonathan Wrobel] 10:33:37
+Uh, we've already done the first part, um…
+
+[Jonathan Wrobel] 10:33:41
+Did you use the scaffold skill once? You had a you had some you had some goals. I don't know. Let's check in.
+
+[Jonathan Wrobel] 10:33:50
+I will send you the link in chat and select.
+
+[Nick Ziegler] 10:33:54
+Thank you. I have the repo up here.
+
+[Jonathan Wrobel] 10:33:56
+Power in. Any people, yeah.
+
+[Jonathan Wrobel] 10:33:58
+There.
+
+[Nick Ziegler] 10:34:02
+Yes, yes.
+
+[Nick Ziegler] 10:34:07
+Two tasks. Oh, Jonathan, I'm off to a rocky start here. I did not do my tasks.
+
+[Jonathan Wrobel] 10:34:12
+You did not yet do your task.
+
+[Nick Ziegler] 10:34:14
+I did not do my tasks.
+
+[Jonathan Wrobel] 10:34:16
+Well, you can do them for next week. All right, so let's, um, all right, this is what I think the goal is, though. I want you to try, there's another, so, because there's another tool that someone, uh, my new team member, uh, shared with me that I wanted to play out with that might be.
+
+[Jonathan Wrobel] 10:34:33
+If you don't want to do TMUX and this thing, it seems to approximate some of the stuff. But I guess maybe that will be both our session homework for next week is to you got to try the existing one, the scaffolding, to get the point.
+
+[Nick Ziegler] 10:34:44
+Okay.
+
+[Nick Ziegler] 10:34:46
+Yeah.
+
+[Jonathan Wrobel] 10:34:48
+And then I actually added this… added a scaffold doctor skill, which I'll… I'm at work that I've been using, but um…
+
+[Nick Ziegler] 10:34:55
+Okay.
+
+[Jonathan Wrobel] 10:34:55
+And then I will use the other one, and then we can, like, compare them.
+
+[Jonathan Wrobel] 10:35:02
+Um, but alright, what is our goal for today? Um.
+
+[Jonathan Wrobel] 10:35:05
+What is our goal for the day?
+
+[Jonathan Wrobel] 10:35:08
+Oh, by the way, I'll say what we have done. I did my homework, by the way.
+
+[Jonathan Wrobel] 10:35:18
+Just to make you so you know.
+
+[Jonathan Wrobel] 10:35:22
+Uh… I don't know if synthesis is pretty simple. Oh, that's not it. Um…
+
+[Jonathan Wrobel] 10:35:29
+Well, let's see. Um…
+
+[Jonathan Wrobel] 10:35:36
+I don't think we have…
+
+[Jonathan Wrobel] 10:35:39
+Really good.
+
+[Jonathan Wrobel] 10:35:41
+Search.
+
+[Jonathan Wrobel] 10:35:43
+thing yet.
+
+[Jonathan Wrobel] 10:35:45
+Oh, you can't find it yet, but we have a channel.
+
+[Jonathan Wrobel] 10:35:50
+I thought it was, I thought maybe it would be public.
+
+[Jonathan Wrobel] 10:35:53
+But I don't see it.
+
+[Nick Ziegler] 10:35:53
+Mm-hmm.
+
+[Jonathan Wrobel] 10:35:59
+There it is.
+
+[Jonathan Wrobel] 10:36:04
+Oh, it didn't go up.
+
+[Jonathan Wrobel] 10:36:06
+There it is. I am Passenger Syndrome.
+
+[Jonathan Wrobel] 10:36:13
+Oh, man. Well, I didn't do it.
+
+[Jonathan Wrobel] 10:36:16
+I think I accidentally posted it to my…
+
+[Nick Ziegler] 10:36:20
+Mmm.
+
+[Jonathan Wrobel] 10:36:21
+Um, to my, uh…
+
+[Jonathan Wrobel] 10:36:24
+Oh, there it is. Oh, I did.
+
+[Jonathan Wrobel] 10:36:28
+Edit draft.
+
+[Jonathan Wrobel] 10:36:31
+Okay, next.
+
+[Jonathan Wrobel] 10:36:35
+Let's just do next. Everything. Oh, I had to get through all the.
+
+[Jonathan Wrobel] 10:36:39
+We're making it public.
+
+[Jonathan Wrobel] 10:36:42
+And then publish.
+
+[Jonathan Wrobel] 10:36:44
+Alright.
+
+[Jonathan Wrobel] 10:36:48
+So, I was not sharing my screen, was I?
+
+[Nick Ziegler] 10:36:51
+No.
+
+[Jonathan Wrobel] 10:36:52
+Alright, I'm completing my homework.
+
+[Jonathan Wrobel] 10:36:58
+There it is.
+
+[Nick Ziegler] 10:37:00
+There it is.
+
+[Jonathan Wrobel] 10:37:02
+An hour and 15 minutes of riveting.
+
+[Jonathan Wrobel] 10:37:05
+Riveting stuff.
+
+[Jonathan Wrobel] 10:37:09
+But, yeah, unedited. So.
+
+[Jonathan Wrobel] 10:37:13
+July 19. I published it today. All right. There we go. I did my thing. We're not famous yet. We don't have any views. But OK. So we have this.
+
+[Nick Ziegler] 10:37:16
+All right.
+
+[Jonathan Wrobel] 10:37:22
+Okay, do you… do you… how do you wanna…
+
+[Jonathan Wrobel] 10:37:26
+I tend to, like, I can easily jump in and just, like, direct a lot of stuff, as it's, like, it's my thing to do, but I also want you to do that as well, so I think it's a good vessel, so…
+
+[Nick Ziegler] 10:37:32
+Mm-hmm.
+
+[Nick Ziegler] 10:37:36
+Okay.
+
+[Nick Ziegler] 10:37:37
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:37:38
+What do you… how do you want to set the goals for the day? What would your… what would your success be?
+
+[Nick Ziegler] 10:37:44
+Oh, let's see.
+
+[Nick Ziegler] 10:37:47
+So what parts have we automated at this point? Is it nothing? Okay.
+
+[Jonathan Wrobel] 10:37:51
+Nothing.
+
+[Jonathan Wrobel] 10:37:52
+Nothing. There's a skill that I haven't used yet, so we can try that out.
+
+[Nick Ziegler] 10:37:57
+Okay.
+
+[Jonathan Wrobel] 10:37:58
+But I think…
+
+[Jonathan Wrobel] 10:37:59
+Yeah, so we haven't omitted anything.
+
+[Jonathan Wrobel] 10:38:04
+Yep.
+
+[Nick Ziegler] 10:38:05
+Okay, um…
+
+[Nick Ziegler] 10:38:08
+Let's see, uh…
+
+[Nick Ziegler] 10:38:12
+Do we think, like…
+
+[Nick Ziegler] 10:38:14
+You know, high level architecture plan, more or.
+
+[Nick Ziegler] 10:38:19
+Maybe not just high level, but, like, somewhat detailed one.
+
+[Jonathan Wrobel] 10:38:23
+Yeah.
+
+[Nick Ziegler] 10:38:26
+Um, yeah.
+
+[Jonathan Wrobel] 10:38:27
+I like that. Um…
+
+[Jonathan Wrobel] 10:38:30
+So, I've been testing out kind of an AI-friendly.
+
+[Jonathan Wrobel] 10:38:37
+team organization principle. It's just a little bit… it's the same as… it's… I don't know. My big question is, like, does…
+
+[Jonathan Wrobel] 10:38:44
+Agile really work anymore in the same way. So we're playing with those little things so we can try it out. It's not that it's, have you ever done, but it's really like a tracer bullet minimum VIP, the MVP release phase planning thing. I think it also kind of.
+
+[Nick Ziegler] 10:38:48
+Yeah.
+
+[Nick Ziegler] 10:38:50
+Yeah.
+
+[Nick Ziegler] 10:39:00
+Okay.
+
+[Jonathan Wrobel] 10:39:02
+steals a little bit from another product development process that I've always wanted to do.
+
+[Jonathan Wrobel] 10:39:09
+The one that, um, Basecamp does.
+
+[Jonathan Wrobel] 10:39:12
+In base camp, the guy who does.
+
+[Jonathan Wrobel] 10:39:14
+uh, you know, Rails.
+
+[Nick Ziegler] 10:39:16
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:39:17
+Um, but uh, where basically you just, like…
+
+[Jonathan Wrobel] 10:39:19
+You pick what your release is, and then you, like…
+
+[Jonathan Wrobel] 10:39:23
+So that, yeah, um…
+
+[Jonathan Wrobel] 10:39:25
+I don't have the document here, but I'll describe it, and then we can have AI maybe draw it up, or I can get it from my work thing and post it up. But essentially, I would like us to, like, what are… what's our long-term goal for release? What are the different phases we want to release to? And then what are… and how do we… what are the user stories in each of those phases?
+
+[Nick Ziegler] 10:39:44
+Hmm. Okay.
+
+[Jonathan Wrobel] 10:39:44
+So, and then, like, you start with the user stories, um, and then… and you kind of do dependency mapping, and then… and you do it kind of using, uh, Claude and HTML, rather than any other kind of tool, um.
+
+[Nick Ziegler] 10:39:48
+Okay.
+
+[Jonathan Wrobel] 10:40:01
+And, um… and it can do a lot for you, right? It'll… we'll see, it'll do a lot for us.
+
+[Jonathan Wrobel] 10:40:08
+And I think we have, you know, we can even… and then we kind of agree on what the dependency mapping is, and then we actually see, like, what can we…
+
+[Jonathan Wrobel] 10:40:18
+And then at work, what I do is then the team, then the engineers get to, so that's done usually with the product manager, the designer, and the thing, and we kind of, you know, and then the engineers kind of look, what do we have, what do we need, and what can be automated, and what can we, like, send to, like, coding loops, or we've been.
+
+[Jonathan Wrobel] 10:40:33
+So that we can, like…
+
+[Jonathan Wrobel] 10:40:35
+hand it off to do it, and see how far it gets. And that's how we estimate… so if it's, like, a problem that we know is, like, brand new, that we don't know the answer to, like, maybe we get… we point to higher, but if it's something we've done before, then we actually just point to 1, even though I think normally that might have been a 2.
+
+[Nick Ziegler] 10:40:38
+Okay.
+
+[Jonathan Wrobel] 10:40:51
+like, takes a lot of code to write, right? But now all of that is kind of, like, pointless if you're not writing the code.
+
+[Nick Ziegler] 10:40:53
+Yeah. Yeah.
+
+[Jonathan Wrobel] 10:40:57
+We haven't really…
+
+[Jonathan Wrobel] 10:40:59
+And then but then there's the concept of, like, how long, you know, there's understanding what is written, which I'm very there's a lot of.
+
+[Nick Ziegler] 10:41:06
+Sure.
+
+[Jonathan Wrobel] 10:41:06
+That's where the, you know, how long does it take to understand what?
+
+[Nick Ziegler] 10:41:10
+Yep.
+
+[Jonathan Wrobel] 10:41:11
+A robot wrote, and how much do you need to understand it, I think is the other question. But, uh…
+
+[Jonathan Wrobel] 10:41:15
+Um, so I don't know, if we could try that.
+
+[Nick Ziegler] 10:41:17
+Cool, okay. Yeah, yeah, I… I… that sounds really cool. Let's, um…
+
+[Jonathan Wrobel] 10:41:22
+All right. I don't want to — we're going to — we'll play. So what I would say is — so right now, just we're in our team brain, right?
+
+[Nick Ziegler] 10:41:22
+I'm done.
+
+[Nick Ziegler] 10:41:30
+Mm-hmm.
+
+[Jonathan Wrobel] 10:41:32
+And just kind of, like, the setup now is, like, the Team Brain has, um… it's the workspace, right? So just, like.
+
+[Jonathan Wrobel] 10:41:42
+We talked about it last time, so we won't go into it again, but I'm gonna skip. So right, this is a.
+
+[Jonathan Wrobel] 10:41:47
+Just kind of orient herself.
+
+[Jonathan Wrobel] 10:41:50
+This is the…
+
+[Jonathan Wrobel] 10:41:55
+Workbench folder. Remember, so the Workbench folder is, like, where I put files that I don't necessarily need to put in there.
+
+[Jonathan Wrobel] 10:42:02
+Now, it's a little bit weird, because the team brain is not code, it's actually just planning, so you could argue that none of the files that are in here are, like, everything we talk about could just go strictly in the team brain, so I don't know if this pattern works that well. But, um…
+
+[Nick Ziegler] 10:42:02
+Okay.
+
+[Jonathan Wrobel] 10:42:14
+And then the other thing, but it has a matching…
+
+[Jonathan Wrobel] 10:42:20
+Just has a matching kind of, uh, folder directory of the actual work tree for our TeamBrain repo, which is here. So you'll see… uh, no, is… here.
+
+[Jonathan Wrobel] 10:42:31
+Right, so this is the actual code, right? Um, so we're on prep session 2, I'm just gonna check out a new branch.
+
+[Jonathan Wrobel] 10:42:38
+And then we'll say, what are we doing? We're gonna be… planning…
+
+[Jonathan Wrobel] 10:42:43
+I don't know, what are we doing? We're…
+
+[Jonathan Wrobel] 10:42:47
+Uh, release planning.
+
+[Nick Ziegler] 10:42:48
+Release planning, yeah.
+
+[Jonathan Wrobel] 10:42:51
+So I like to name the branch that way.
+
+[Nick Ziegler] 10:42:54
+Mm-hmm.
+
+[Jonathan Wrobel] 10:42:55
+And then, just so I know what it is, I'm gonna rename this tab, really, because we're not setting it up anymore, now it's Release Planning.
+
+[Jonathan Wrobel] 10:43:05
+And then I will actually also rename the TMUC station, which is release planning.
+
+[Jonathan Wrobel] 10:43:13
+For, uh, our…
+
+[Jonathan Wrobel] 10:43:15
+What do we call our thing? What do we want? What's our product?
+
+[Nick Ziegler] 10:43:25
+It's…
+
+[Nick Ziegler] 10:43:28
+Like, it's a video publisher, like.
+
+[Jonathan Wrobel] 10:43:28
+You got to put AI in it.
+
+[Nick Ziegler] 10:43:33
+Video and…
+
+[Nick Ziegler] 10:43:34
+Like, metadata…
+
+[Nick Ziegler] 10:43:37
+Mmhm.
+
+[Jonathan Wrobel] 10:43:38
+How about, um, magical…
+
+[Jonathan Wrobel] 10:43:44
+Uh… content.
+
+[Jonathan Wrobel] 10:43:47
+Creator Machine.
+
+[Nick Ziegler] 10:43:51
+I like it.
+
+[Jonathan Wrobel] 10:43:53
+I don't know. It's a wordy title. But that's kind of what we're doing, right? We're, like, trying to create content while creating content. While not… while doing it as little as possible. And the content could be… alright. Um…
+
+[Nick Ziegler] 10:44:01
+Yeah.
+
+[Nick Ziegler] 10:44:03
+Mm-hmm.
+
+[Jonathan Wrobel] 10:44:06
+Alright. So we're gonna play with dictate.
+
+[Jonathan Wrobel] 10:44:13
+So, here is our open cloud. It has context on, like, what we're working on. We also have the vision that we also put in there already, which we could just use.
+
+[Jonathan Wrobel] 10:44:23
+as a…
+
+[Jonathan Wrobel] 10:44:27
+Let's see what's in there. So this is this charity and brain. This is our skills. OK, we actually — I think we have some projects already. So let's go see if we have any — what are our projects?
+
+[Jonathan Wrobel] 10:44:42
+All right, this is it.
+
+[Nick Ziegler] 10:44:46
+Okay.
+
+[Jonathan Wrobel] 10:44:51
+Alright, we even have this. What each session should eventually become. A podcast episode, a lightly edited video, a blog post, a searchable knowledge base, a GitHub update, and the starting point for next week's work. The long-term goal is nearly all that to happen automatically. That's what we're trying to do. So basically…
+
+[Jonathan Wrobel] 10:45:06
+All this is…
+
+[Jonathan Wrobel] 10:45:07
+AI is the most powerful teammate in a chatbot rather than asking a model to do everything, give it reusable skills, and let it orchestrate or compose them. I don't know if.
+
+[Jonathan Wrobel] 10:45:15
+I have questions about this, but we'll…
+
+[Jonathan Wrobel] 10:45:19
+Whether we want to just use skills in, like, Claude, kind of like the…
+
+[Jonathan Wrobel] 10:45:23
+Which is, in some way, or do we actually want to play more with, like.
+
+[Jonathan Wrobel] 10:45:28
+LangGraph graphs and, like, actually build agents, like, manually to do it, or maybe we do both and see which one works.
+
+[Nick Ziegler] 10:45:29
+Yeah.
+
+[Nick Ziegler] 10:45:32
+Yeah.
+
+[Nick Ziegler] 10:45:34
+Yeah.
+
+[Jonathan Wrobel] 10:45:35
+Um, but everything's a skill, a markdown spec, one more scripts, clear inputs. This is kind of how I've been building a lot of things. Basically, it's like, rather than build the thing, you just give it… you just let Claude run it, and then you give it little, small, like, Python, or JavaScript, or whatever type of scripts.
+
+[Jonathan Wrobel] 10:45:53
+And… and… and you give Claude the instructions on how to do it, and then you say, go do it. And it knows… so it's like they're all tools, essentially, right?
+
+[Jonathan Wrobel] 10:46:04
+Okay.
+
+[Jonathan Wrobel] 10:46:05
+So…
+
+[Nick Ziegler] 10:46:06
+Mm-hmm.
+
+[Jonathan Wrobel] 10:46:06
+Zoom recording, whisper transmission, transcript cleanup, basic artifacts. That's the first… that was, like, the first phase. Publish. Blog generation, GitHub pages, episode pages, video embedding.
+
+[Jonathan Wrobel] 10:46:19
+AI edits suggestions, persistent knowledge, decision tracking. AI receives tasks, works through the week, produces PRs.
+
+[Jonathan Wrobel] 10:46:27
+Alright, so we did Zoom recording.
+
+[Jonathan Wrobel] 10:46:31
+So, okay, I don't know.
+
+[Jonathan Wrobel] 10:46:32
+High level.
+
+[Jonathan Wrobel] 10:46:35
+Do you want to push back or change any of this stuff?
+
+[Nick Ziegler] 10:46:38
+Um, no, I don't think so.
+
+[Jonathan Wrobel] 10:46:40
+Okay.
+
+[Nick Ziegler] 10:46:41
+Yeah.
+
+[Jonathan Wrobel] 10:46:44
+Okay, so then, what is the release phases? That's a good ask. Like, if you go to…
+
+[Nick Ziegler] 10:46:51
+Mm-hmm.
+
+[Jonathan Wrobel] 10:46:52
+I don't know. What are the release phases?
+
+[Jonathan Wrobel] 10:46:55
+Or just build each one at a time? Like, do you think capture, publish?
+
+[Jonathan Wrobel] 10:47:01
+Log generation next.
+
+[Nick Ziegler] 10:47:04
+Mm-hmm.
+
+[Jonathan Wrobel] 10:47:05
+What do you think?
+
+[Nick Ziegler] 10:47:07
+Sorry, the release or what was your question exactly like?
+
+[Jonathan Wrobel] 10:47:12
+Like, in your head.
+
+[Nick Ziegler] 10:47:13
+Mm-hmm.
+
+[Jonathan Wrobel] 10:47:15
+what is… what should we… what's… like, if this is the final product, right? This is basically the final… I guess the vision, what's the final product that we basically sit on, we code together.
+
+[Nick Ziegler] 10:47:20
+Yeah.
+
+[Jonathan Wrobel] 10:47:26
+We…
+
+[Jonathan Wrobel] 10:47:28
+We record it, we finish the recording, we set up, and then we turn it off, and we say, go make content.
+
+[Nick Ziegler] 10:47:28
+Mm-hmm.
+
+[Jonathan Wrobel] 10:47:36
+And then everything else happens, basically, without us doing anything.
+
+[Nick Ziegler] 10:47:40
+Yeah. Yeah.
+
+[Jonathan Wrobel] 10:47:40
+Except we get to, like, approve the content, maybe some way to, like, oh, this is a good Substack post, oh, this is something I'll want to do manually, oh, like, here's the video before it gets posted, this is the edit I made.
+
+[Jonathan Wrobel] 10:47:53
+And…
+
+[Jonathan Wrobel] 10:47:54
+So that's like… that's like the… that's the final thing, right?
+
+[Nick Ziegler] 10:47:58
+Yeah, okay.
+
+[Jonathan Wrobel] 10:48:00
+So what are the… so this is… if that's the final product, then what is it that we want to do to get there? Like, what are the release phases?
+
+[Nick Ziegler] 10:48:06
+Mm-hmm.
+
+[Nick Ziegler] 10:48:12
+Are you meaning, kind of like, fleshing out these phases that are currently written here?
+
+[Jonathan Wrobel] 10:48:14
+Mm-hmm.
+
+[Jonathan Wrobel] 10:48:16
+I mean, are these the actual release phases? This is… yeah.
+
+[Nick Ziegler] 10:48:18
+I just, right.
+
+[Nick Ziegler] 10:48:20
+Yeah. Yeah. Okay.
+
+[Jonathan Wrobel] 10:48:22
+I mean, this is all… this is… this is like a brain dump, right? So now we're kind of like, how do we convert this into something we actually, you know…
+
+[Nick Ziegler] 10:48:25
+Yeah, yeah, I see what you mean.
+
+[Nick Ziegler] 10:48:28
+Yeah.
+
+[Nick Ziegler] 10:48:29
+Yep, I see what you mean now.
+
+[Nick Ziegler] 10:48:32
+Hmm, okay.
+
+[Jonathan Wrobel] 10:48:35
+And this comes, I'm going to get a book. I think I want to reread this book.
+
+[Jonathan Wrobel] 10:48:50
+Remember Austin Putton?
+
+[Nick Ziegler] 10:48:52
+Mm-hmm.
+
+[Jonathan Wrobel] 10:48:54
+He gave me this book, and I read it when I first joined AMADA.
+
+[Nick Ziegler] 10:48:57
+Oh.
+
+[Jonathan Wrobel] 10:48:59
+It's called…
+
+[Jonathan Wrobel] 10:49:01
+The pragmatic programmer.
+
+[Nick Ziegler] 10:49:03
+Okay.
+
+[Jonathan Wrobel] 10:49:04
+And…
+
+[Jonathan Wrobel] 10:49:06
+I still think about it, even though I don't have it in my head, but we could probably… but one of the things, as I recall, in it is just… and I think it's guiding… it's like, build tracer bullets.
+
+[Jonathan Wrobel] 10:49:18
+Do you know what traceable it is?
+
+[Jonathan Wrobel] 10:49:20
+Okay, the way I… so tracer bullets, like, like, instead of how do you aim at something and shoot it, like, if you don't know, you take a first tracer bullet, and then you shoot it, and like, oh, it landed there, so that's the right way to aim, so…
+
+[Nick Ziegler] 10:49:34
+Yeah, okay.
+
+[Jonathan Wrobel] 10:49:34
+Basically, like…
+
+[Jonathan Wrobel] 10:49:36
+Don't guess about what you're trying to build and, like, how complicated it is. Build a simple version from start to end. Like, that's your tracer bullet.
+
+[Nick Ziegler] 10:49:40
+Okay.
+
+[Nick Ziegler] 10:49:45
+Yeah, yeah, okay, cool.
+
+[Jonathan Wrobel] 10:49:48
+And I can, like, bring out…
+
+[Jonathan Wrobel] 10:49:50
+Let's see. What is it? Look at this. AI, but we're actually.
+
+[Jonathan Wrobel] 10:49:56
+Use tracer builders to find the target. Tracer code is not sloppy.
+
+[Jonathan Wrobel] 10:50:02
+Um, tracer bullets don't always hit their target. It's be okay to fail. I'm just reading my notes. It's okay, it's great when tracer bullets miss, they are there to guide you, so it's not about hitting it, right? How does, um… yeah, prototypes, so yeah.
+
+[Nick Ziegler] 10:50:12
+Yeah.
+
+[Jonathan Wrobel] 10:50:16
+So…
+
+[Jonathan Wrobel] 10:50:19
+that, and then prototyping for architecture. Um, alright, so I feel like…
+
+[Nick Ziegler] 10:50:24
+Okay.
+
+[Jonathan Wrobel] 10:50:25
+to me, the first… what's the tracer bullet that, like, we want to prove all the way to the end? What's, like, the… is it, like, the full flow? Like, click…
+
+[Nick Ziegler] 10:50:30
+Mm-hmm.
+
+[Jonathan Wrobel] 10:50:37
+Record…
+
+[Nick Ziegler] 10:50:37
+Mm-hmm.
+
+[Jonathan Wrobel] 10:50:38
+What's the first product? Is it a blog? Is it the video? I mean, we already did, like, recording and posting. I guess that's what I'm trying to figure out.
+
+[Nick Ziegler] 10:50:46
+Yeah, yeah, right, right. Let's see, what would be…
+
+[Nick Ziegler] 10:50:52
+Let's see. So.
+
+[Nick Ziegler] 10:50:55
+Looking through the phases again, like, starting from the…
+
+[Nick Ziegler] 10:51:00
+Top. Um…
+
+[Nick Ziegler] 10:51:02
+Watt generation. Yeah, is it?
+
+[Nick Ziegler] 10:51:06
+Basic artifacts.
+
+[Nick Ziegler] 10:51:14
+Hmm.
+
+[Nick Ziegler] 10:51:17
+Yeah, I add suggestions.
+
+[Nick Ziegler] 10:51:23
+Hmm, um…
+
+[Nick Ziegler] 10:51:26
+What is the first?
+
+[Nick Ziegler] 10:51:29
+I don't know. I would say, like, you know.
+
+[Nick Ziegler] 10:51:33
+Posting…
+
+[Nick Ziegler] 10:51:35
+Like, posting a video, and…
+
+[Nick Ziegler] 10:51:41
+Creating…
+
+[Nick Ziegler] 10:51:45
+Yeah. I mean, maybe maybe blog could be, like, the simp you know, the simplest.
+
+[Nick Ziegler] 10:51:51
+of these, just like… or GitHub pages.
+
+[Nick Ziegler] 10:51:59
+I don't know. What what do you think?
+
+[Jonathan Wrobel] 10:52:03
+Yeah, I feel like…
+
+[Jonathan Wrobel] 10:52:06
+If we can stop a recording…
+
+[Nick Ziegler] 10:52:09
+Mm-hmm.
+
+[Jonathan Wrobel] 10:52:10
+And it posts it.
+
+[Jonathan Wrobel] 10:52:12
+Takes the transcript.
+
+[Jonathan Wrobel] 10:52:15
+And posts even just one AI-generated slop thing that goes up into the internet that we can then… you can see the video, and you can see the summary.
+
+[Nick Ziegler] 10:52:20
+Yeah.
+
+[Nick Ziegler] 10:52:25
+Mm-hmm.
+
+[Jonathan Wrobel] 10:52:27
+And it is discoverable on the web. That would be like a tracer bullet.
+
+[Nick Ziegler] 10:52:33
+Yeah.
+
+[Nick Ziegler] 10:52:34
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:52:35
+So… and then… so what that doesn't have, uh…
+
+[Jonathan Wrobel] 10:52:41
+Is… it doesn't have, you know, editing, doesn't have human review.
+
+[Jonathan Wrobel] 10:52:47
+Doesn't have guidance, it doesn't have persistent knowledges, but all that is like.
+
+[Nick Ziegler] 10:52:51
+Mm-hmm.
+
+[Jonathan Wrobel] 10:52:52
+Yeah, if we can, like…
+
+[Jonathan Wrobel] 10:52:55
+So, okay, so can we get to the point where we end this video and it makes something? So I think that would be…
+
+[Jonathan Wrobel] 10:53:02
+The first release phase, probably.
+
+[Jonathan Wrobel] 10:53:04
+Okay, um…
+
+[Nick Ziegler] 10:53:05
+Yeah.
+
+[Nick Ziegler] 10:53:07
+Okay.
+
+[Jonathan Wrobel] 10:53:08
+Alright. So what we're gonna do is we're gonna go into here. We're just gonna I'm gonna take this so I just I'm gonna copy this.
+
+[Jonathan Wrobel] 10:53:15
+file, and just give it… give it to Claude here. And I'm gonna be like, okay, we are going to verbally…
+
+[Nick Ziegler] 10:53:16
+Yeah.
+
+[Nick Ziegler] 10:53:19
+Okay.
+
+[Jonathan Wrobel] 10:53:23
+dump our…
+
+[Jonathan Wrobel] 10:53:27
+First, tracer bullet phase of release.
+
+[Jonathan Wrobel] 10:53:33
+that we want to try.
+
+[Jonathan Wrobel] 10:53:35
+And then I'll, I guess, push back if you disagree.
+
+[Jonathan Wrobel] 10:53:41
+And then we will try to map out a kind of dependency high level.
+
+[Jonathan Wrobel] 10:53:50
+Dependency tree.
+
+[Jonathan Wrobel] 10:53:53
+All right, so I'm going to let you describe it. Ready? I'm going to dictate it. Dictate.
+
+[Jonathan Wrobel] 10:53:59
+So you're going to do your best to describe.
+
+[Jonathan Wrobel] 10:54:03
+There. Go.
+
+[Nick Ziegler] 10:54:07
+Alright, um…
+
+[Nick Ziegler] 10:54:09
+I want to…
+
+[Nick Ziegler] 10:54:13
+be able to…
+
+[Nick Ziegler] 10:54:16
+Um, after…
+
+[Nick Ziegler] 10:54:18
+Recording a video… well, let's see. No, I want to be able to, um…
+
+[Nick Ziegler] 10:54:24
+Take a Zoom recording.
+
+[Nick Ziegler] 10:54:27
+And…
+
+[Nick Ziegler] 10:54:31
+be able to…
+
+[Nick Ziegler] 10:54:37
+Sorry, my brain is, like, really fried.
+
+[Jonathan Wrobel] 10:54:40
+It's okay.
+
+[Nick Ziegler] 10:54:41
+Um, yeah, I'm, uh…
+
+[Nick Ziegler] 10:54:45
+Yeah.
+
+[Nick Ziegler] 10:54:46
+Sorry. I'm like, yeah.
+
+[Jonathan Wrobel] 10:54:46
+It's okay. Don't worry. You know what's nice about it? This thing will clean it all up for you. So…
+
+[Nick Ziegler] 10:54:53
+Yeah. Yeah.
+
+[Jonathan Wrobel] 10:54:54
+So try again. Let's see. What is it? So button.
+
+[Nick Ziegler] 10:54:55
+So, I don't know, I'm… I'm just stumbling over little details that I don't know, like, oh, do… is it, like, before we hit record, or is it after we record, and it uses that… you know, just, like, little things like that.
+
+[Jonathan Wrobel] 10:55:02
+Yep.
+
+[Jonathan Wrobel] 10:55:08
+So that's an open question for you, is…
+
+[Jonathan Wrobel] 10:55:12
+whether it's, like, what the actual usability is. Okay, but what's the high-level goal? Is that we finish a video.
+
+[Nick Ziegler] 10:55:17
+Yeah.
+
+[Jonathan Wrobel] 10:55:20
+We take the video.
+
+[Nick Ziegler] 10:55:22
+Mm-hmm. It creates…
+
+[Jonathan Wrobel] 10:55:22
+It creates…
+
+[Nick Ziegler] 10:55:28
+It creates a, uh…
+
+[Nick Ziegler] 10:55:33
+So some kind of.
+
+[Nick Ziegler] 10:55:34
+something on the Internet, whether it's a web page or something on our GitHub.
+
+[Jonathan Wrobel] 10:55:39
+Yep.
+
+[Nick Ziegler] 10:55:40
+GitHub page, like, with a summary…
+
+[Nick Ziegler] 10:55:44
+Of the video.
+
+[Nick Ziegler] 10:55:47
+And like a link to it.
+
+[Jonathan Wrobel] 10:55:50
+Yeah. So like a AI slop blog post based on the video.
+
+[Jonathan Wrobel] 10:55:56
+That takes the content that we just talked about, a link to the video.
+
+[Jonathan Wrobel] 10:56:00
+And…
+
+[Jonathan Wrobel] 10:56:02
+Is that it?
+
+[Nick Ziegler] 10:56:04
+I think so.
+
+[Jonathan Wrobel] 10:56:06
+All right.
+
+[Nick Ziegler] 10:56:07
+Yeah.
+
+[Jonathan Wrobel] 10:56:07
+Alright. So that's our phase.
+
+[Jonathan Wrobel] 10:56:10
+Yeah, that's phase one, I guess.
+
+[Nick Ziegler] 10:56:13
+Yeah.
+
+[Jonathan Wrobel] 10:56:13
+Okay, so…
+
+[Jonathan Wrobel] 10:56:17
+We'll see how it… look at this. This is… we have 135 seconds of audio. Let's see what it meets up with.
+
+[Jonathan Wrobel] 10:56:29
+Oh, it did not work at all.
+
+[Jonathan Wrobel] 10:56:35
+I want to be able to… what happened? Did it not catch our… oh, it might have… somehow it didn't… I wonder if it's not…
+
+[Jonathan Wrobel] 10:56:42
+Getting your Zoom. Let's try this again.
+
+[Nick Ziegler] 10:56:45
+Okay.
+
+[Jonathan Wrobel] 10:56:46
+I'm going to see if this dictates not working.
+
+[Jonathan Wrobel] 10:56:50
+You talk.
+
+[Nick Ziegler] 10:56:52
+Okay. Um, I want to be able to take a Zoom recording and, uh, have it be.
+
+[Nick Ziegler] 10:57:01
+processed and an AI slop summary.
+
+[Nick Ziegler] 10:57:09
+Of the video.
+
+[Nick Ziegler] 10:57:11
+be posted on…
+
+[Nick Ziegler] 10:57:14
+our GitHub…
+
+[Nick Ziegler] 10:57:16
+page.
+
+[Nick Ziegler] 10:57:17
+or in GitHub pages, and.
+
+[Nick Ziegler] 10:57:21
+It should also include a link to the video.
+
+[Jonathan Wrobel] 10:57:24
+Okay.
+
+[Jonathan Wrobel] 10:57:28
+Oh, it's not capturing.
+
+[Nick Ziegler] 10:57:31
+I'll do this real quick.
+
+[Jonathan Wrobel] 10:57:32
+No, I did.
+
+[Jonathan Wrobel] 10:57:34
+There you go. How's that?
+
+[Nick Ziegler] 10:57:35
+Yeah, I think the process. Yeah.
+
+[Jonathan Wrobel] 10:57:35
+Is that right?
+
+[Jonathan Wrobel] 10:57:38
+It is our phase.
+
+[Jonathan Wrobel] 10:57:41
+Hold on.
+
+[Nick Ziegler] 10:57:42
+Cool. Very cool.
+
+[Jonathan Wrobel] 10:57:45
+Can…
+
+[Jonathan Wrobel] 10:57:49
+Alright, so I think… do you want to talk through the user stories?
+
+[Nick Ziegler] 10:57:54
+Uh, yeah.
+
+[Jonathan Wrobel] 10:57:57
+All right. We'll go ping pong. I think user story one is —.
+
+[Nick Ziegler] 10:58:00
+Okay.
+
+[Jonathan Wrobel] 10:58:05
+I can upload a recording.
+
+[Jonathan Wrobel] 10:58:08
+Or send a recording of a video.
+
+[Jonathan Wrobel] 10:58:13
+somewhere to get processed. And I guess, do we have… does it have to be something that we host, or is it something we can just…
+
+[Jonathan Wrobel] 10:58:22
+use Claude to do, basically. Like, I feel like at first we don't need…
+
+[Nick Ziegler] 10:58:23
+Mm-hmm.
+
+[Jonathan Wrobel] 10:58:31
+And we got some pushback from AI. That's great. So I would say user story one.
+
+[Jonathan Wrobel] 10:58:38
+It should take the audio, like, the video zoom, MPP4Flower, upload it.
+
+[Jonathan Wrobel] 10:58:45
+And it gives us back a…
+
+[Jonathan Wrobel] 10:58:47
+What's it called? A, like, a proposed blog post.
+
+[Jonathan Wrobel] 10:58:52
+That's one.
+
+[Jonathan Wrobel] 10:58:54
+Or the other is…
+
+[Jonathan Wrobel] 10:58:55
+I want to be able to like, well, one, I need to be able to host our, we have to create our imposter webpage. That should be really fast. But I think, so like we need to have a webpage to post a blog post for. Maybe that's the first one. I have a webpage to post a blog post for.
+
+[Nick Ziegler] 10:59:06
+Yeah.
+
+[Jonathan Wrobel] 10:59:10
+And it describes it to us, it has some information about us, and it has a place to post blog posts that then link and can ho… and play our YouTube video. That's probably the first… that's, like, a lot of user stories in there. But we can break that up.
+
+[Nick Ziegler] 10:59:22
+Yeah. Yeah.
+
+[Nick Ziegler] 10:59:23
+Yeah. Okay.
+
+[Jonathan Wrobel] 10:59:24
+And then, yeah, so we'll ask AI to break that up into, like, dependency tree. And then after that is, can we essentially…
+
+[Jonathan Wrobel] 10:59:32
+do we want the webpage… like, where do we want to host this processing? Is it going to be local on our machine, or do we want to, like, put it somewhere where it runs, like…
+
+[Nick Ziegler] 10:59:42
+Mm-hmm.
+
+[Jonathan Wrobel] 10:59:42
+In a box somewhere. Uh…
+
+[Nick Ziegler] 10:59:44
+Yo.
+
+[Nick Ziegler] 10:59:44
+I think local.
+
+[Jonathan Wrobel] 10:59:46
+I think local for the tracer bullet, and then we can, like, look at migrating it into, like, a more automated thing. I like that.
+
+[Nick Ziegler] 10:59:49
+Yeah.
+
+[Nick Ziegler] 10:59:52
+Sure. Sure, yeah.
+
+[Jonathan Wrobel] 10:59:54
+And then…
+
+[Jonathan Wrobel] 10:59:57
+Alright. So we'll ask AI to help break that down into user stories into a dependency tree.
+
+[Jonathan Wrobel] 11:00:04
+Okay.
+
+[Jonathan Wrobel] 11:00:05
+But let's see what it said. For the Trisha bullet, what does AI summarize? AI polishes handwritten session doc you already keep in the brain, proves the full published pipeline, zero transcription risks, swap in a Whisper transcript.
+
+[Jonathan Wrobel] 11:00:18
+I don't know. That's so the session doc itself is.
+
+[Jonathan Wrobel] 11:00:23
+I mean, that is true. Instead of, like…
+
+[Jonathan Wrobel] 11:00:27
+for today.
+
+[Jonathan Wrobel] 11:00:29
+Is the goal just to get the web page up, and then post, like, the… we can literally just…
+
+[Jonathan Wrobel] 11:00:35
+I don't know.
+
+[Jonathan Wrobel] 11:00:37
+Transcript of the video.
+
+[Jonathan Wrobel] 11:00:39
+Both, if we have time.
+
+[Jonathan Wrobel] 11:00:41
+Which one do you think?
+
+[Nick Ziegler] 11:00:44
+Oh, uh, sorry, um…
+
+[Jonathan Wrobel] 11:00:45
+We're looking at the left here. Is that too big?
+
+[Nick Ziegler] 11:00:46
+Yeah, yeah, no, I know. Sorry, the…
+
+[Nick Ziegler] 11:00:49
+I lost you for, like, 10 seconds there. Right. Session doc.
+
+[Jonathan Wrobel] 11:00:51
+Yep.
+
+[Nick Ziegler] 11:00:57
+Approves the full published pipeline this week with zero transmission rips or some resources.
+
+[Nick Ziegler] 11:01:10
+Sorry, this session, I keep already keeping a brain.
+
+[Nick Ziegler] 11:01:15
+It was a poor pipeline.
+
+[Jonathan Wrobel] 11:01:16
+I think the big question is, like, do we care about transcription of the video yet, or do we just wanna, like, is the tracer bullet, can we.
+
+[Jonathan Wrobel] 11:01:23
+Post something online with a clip.
+
+[Nick Ziegler] 11:01:26
+Yeah. Yeah, that could be.
+
+[Nick Ziegler] 11:01:29
+Because, yeah, the transcription were, like, kinda hand wavy, but it's.
+
+[Jonathan Wrobel] 11:01:36
+It's not that hard. I mean, we get a transcript from…
+
+[Nick Ziegler] 11:01:36
+Yeah.
+
+[Nick Ziegler] 11:01:39
+From Zoom.
+
+[Jonathan Wrobel] 11:01:41
+Zoom. So, we just download that, right? It's transcribing us right now, has our name, users, and then we just send that up. So, I don't even think that that's how… I think we can do both.
+
+[Nick Ziegler] 11:01:41
+Yeah, okay.
+
+[Nick Ziegler] 11:01:49
+I don't think. Yeah, yeah, okay.
+
+[Jonathan Wrobel] 11:01:50
+But I feel like it's basically the same thing because like we're going to ask At the end of this session, we will end this thing, download the transcription, give it to Claude and say, go clean this up and make it.
+
+[Nick Ziegler] 11:01:55
+Yeah.
+
+[Jonathan Wrobel] 11:02:04
+Slop AI slop thing in markdown, and then we should be able to push to push it up in a way that's published. Right?
+
+[Nick Ziegler] 11:02:10
+Yeah. Mm-hmm.
+
+[Jonathan Wrobel] 11:02:11
+So now we need a website, which is fun.
+
+[Jonathan Wrobel] 11:02:15
+Have you… all right, so let's… okay, but let's get your hand raised, let's get you the stories here.
+
+[Nick Ziegler] 11:02:17
+Mm-hmm. Yeah.
+
+[Nick Ziegler] 11:02:19
+Okay.
+
+[Jonathan Wrobel] 11:02:21
+Um… and the goal is to maybe, like, push this off into, like, an AI coder orchestrator that will do some of this for us, and then we get… I think get some of it for free when we get back. Um…
+
+[Nick Ziegler] 11:02:30
+Yeah. Yeah.
+
+[Jonathan Wrobel] 11:02:32
+Okay, but uh… I think we're gonna say both, if we have… both of you have the time. And we can, like, basically say…
+
+[Nick Ziegler] 11:02:33
+Okay.
+
+[Nick Ziegler] 11:02:36
+Yeah, let's do it.
+
+[Jonathan Wrobel] 11:02:39
+Uh, I think GitHub pages…
+
+[Nick Ziegler] 11:02:40
+Mm-hmm.
+
+[Jonathan Wrobel] 11:02:44
+And we can do… first, we can do AI GitHub. We have the website. Let's not waste time.
+
+[Nick Ziegler] 11:02:49
+Yep.
+
+[Jonathan Wrobel] 11:02:50
+By attaching it to it yet, because that'll probably take a little bit of time.
+
+[Nick Ziegler] 11:02:55
+Yeah.
+
+[Jonathan Wrobel] 11:02:56
+It's not that hard to do, but it might, but.
+
+[Jonathan Wrobel] 11:03:00
+I think that.
+
+[Nick Ziegler] 11:03:02
+Yeah.
+
+[Jonathan Wrobel] 11:03:03
+Okay.
+
+[Jonathan Wrobel] 11:03:05
+And then let's…
+
+[Jonathan Wrobel] 11:03:06
+Here is our…
+
+[Jonathan Wrobel] 11:03:12
+Rough user story.
+
+[Jonathan Wrobel] 11:03:14
+Discussion.
+
+[Jonathan Wrobel] 11:03:20
+Let's pull that into it. I think it…
+
+[Jonathan Wrobel] 11:03:24
+Lines up with…
+
+[Jonathan Wrobel] 11:03:27
+where you are going. I don't know, like…
+
+[Jonathan Wrobel] 11:03:31
+how much…
+
+[Jonathan Wrobel] 11:03:32
+I have this sneaky suspicion, this is where the imposter thing, that like.
+
+[Jonathan Wrobel] 11:03:37
+I tend to just dump a lot of things into Claude, and, like, my verbal, like… and think that… and I can't tell if I'm wasting tokens by doing it, if I should start to, like…
+
+[Jonathan Wrobel] 11:03:50
+Can be really like.
+
+[Nick Ziegler] 11:03:52
+Concise.
+
+[Jonathan Wrobel] 11:03:52
+concise in order to get better output. But, like, some part of me is, like, what I like about this type of coding is that, uh, it is the… it is the… the formation of an unclear idea to a clear idea that I get to, like, hone back and forth in language, and then ultimately get to what I want.
+
+[Jonathan Wrobel] 11:04:10
+So, like, I I just don't know how efficient it's, like, if that is the right way to do this. I don't really know.
+
+[Nick Ziegler] 11:04:10
+Yeah. Yeah.
+
+[Nick Ziegler] 11:04:19
+Yeah, no, that's a good point.
+
+[Jonathan Wrobel] 11:04:24
+And I won't. Yeah, go ahead. Yeah.
+
+[Nick Ziegler] 11:04:26
+Yeah, yeah.
+
+[Nick Ziegler] 11:04:28
+Uh… I mean, I totally agree. I feel like I use it the same way, and…
+
+[Nick Ziegler] 11:04:34
+it's… I mean, yeah, it's pretty amazing, like, how it can… I mean, follow as your… as you put together… as you, like, try to piece together these ideas amid, like, fragment sentences and other things that maybe don't make sense, like…
+
+[Nick Ziegler] 11:04:51
+And…
+
+[Nick Ziegler] 11:04:52
+I mean, I think input tokens is like, it's…
+
+[Nick Ziegler] 11:04:55
+It's not a…
+
+[Nick Ziegler] 11:04:58
+gonna cost you a lot. Like, there may be more…
+
+[Jonathan Wrobel] 11:05:02
+But is it… does it do more efficient output token? I mean, we don't think… this is a theory… I think what I want to put… the way I bring it up is I will… I would love, as part of us, to, like, try this in one way.
+
+[Nick Ziegler] 11:05:02
+Turn…
+
+[Nick Ziegler] 11:05:05
+Yeah, you know.
+
+[Jonathan Wrobel] 11:05:12
+and then, like, analyze… so we should connect Claude to Langsmith, so we can analyze how we're doing in terms of that, um…
+
+[Nick Ziegler] 11:05:19
+Yeah, totally.
+
+[Jonathan Wrobel] 11:05:20
+And that might be, I think, another one of our user stories for this week is, can we collect our Claude sessions to Langsmith and start analyzing how we're learning? Like, how is our use of AI in Claude? Can it be like, yeah, so there's a way to do that.
+
+[Nick Ziegler] 11:05:34
+Yeah, yeah.
+
+[Nick Ziegler] 11:05:36
+Cool.
+
+[Jonathan Wrobel] 11:05:36
+But let's not let's get a little dopamine first.
+
+[Jonathan Wrobel] 11:05:41
+Well, maybe. I don't know, let's see. I think it's pretty easy to hook up Claude to Linksmith, and maybe we want to do it.
+
+[Nick Ziegler] 11:05:43
+Hmm.
+
+[Nick Ziegler] 11:05:46
+Okay.
+
+[Jonathan Wrobel] 11:05:49
+Now, because it'll help us, like, judge how we…
+
+[Nick Ziegler] 11:05:52
+Mm-hmm.
+
+[Jonathan Wrobel] 11:05:53
+actually are using it. And so, if we wanted to do another test, we can then have the baseline.
+
+[Jonathan Wrobel] 11:05:59
+Does that make sense?
+
+[Nick Ziegler] 11:06:00
+Yeah, yeah, that makes sense.
+
+[Jonathan Wrobel] 11:06:01
+Alright, well, let's, um…
+
+[Jonathan Wrobel] 11:06:04
+Trace a bullet session. This is what we have.
+
+[Jonathan Wrobel] 11:06:07
+Website exists. AI drafts a blog post, publish the post.
+
+[Jonathan Wrobel] 11:06:12
+Okay. Public episode page, playing the video.
+
+[Jonathan Wrobel] 11:06:16
+Cross-cutting decisions. Processing runs locally for Tracer Bullet. Automate hosts later. Two things I want to flag before writing this into the brain. One pushback, one naming. Pushback small. Your transcript said the web page story has a lot of user stories in there. It does. One A, one B, one C.
+
+[Jonathan Wrobel] 11:06:31
+that breakup. I'd argue that 1A and 1C are on phase one, critical path. The About Us 1B is nice, but doesn't block publishing. If the session runs short, 1B is the first thing you've got. Agree.
+
+[Jonathan Wrobel] 11:06:42
+The AI step outputs proposed blog post. You said proposed twice, and it matters. Draft a human approves, not an auto-publish. That keeps a human in the loop.
+
+[Jonathan Wrobel] 11:06:52
+And it's the honest version of where the AI is right now.
+
+[Jonathan Wrobel] 11:06:55
+Okay. Does it… do we want to skip? So basically, do we want A1…
+
+[Nick Ziegler] 11:06:59
+Mm-hmm. Yeah, that seems fine.
+
+[Jonathan Wrobel] 11:07:02
+Embeds the defer and shows the summary about as page is deferred. It's a nice but doesn't block. That's fair.
+
+[Nick Ziegler] 11:07:07
+Yeah, that's fair.
+
+[Jonathan Wrobel] 11:07:09
+Um, and honestly, I would say yes, and I don't know if we… I don't care about publishing it right now. So, like, it's my…
+
+[Nick Ziegler] 11:07:16
+Yeah.
+
+[Jonathan Wrobel] 11:07:19
+At the phase one traceable is that you destroy a tree.
+
+[Jonathan Wrobel] 11:07:24
+This is durable. It's a plant. It belongs in the brain.
+
+[Jonathan Wrobel] 11:07:28
+Both project doc and the decision. And the phase one traceable user story tree to projects. Yes, we definitely want that.
+
+[Jonathan Wrobel] 11:07:38
+No, we'll just… this is where, like, I think this process of workbench, when we're working in.
+
+[Jonathan Wrobel] 11:07:45
+a.
+
+[Jonathan Wrobel] 11:07:46
+kind of… our whole repo's kind of a workbench, because it's like a brain for this project.
+
+[Nick Ziegler] 11:07:50
+Mm-hmm.
+
+[Jonathan Wrobel] 11:07:52
+Does that, does that, does that make sense? It's like if it was code, I think this flow will get more clear as we like, what is in the workbench, what is not like the whole repo is kind of a workbench right now, right? It's capturing all this stuff. So I'm going to say brain project goes in the actual project. Yeah.
+
+[Nick Ziegler] 11:07:57
+Mm-hmm.
+
+[Nick Ziegler] 11:08:07
+Mm-hmm, okay.
+
+[Jonathan Wrobel] 11:08:12
+Do we have a refinement to it? Oh, I want it to be in HTML.
+
+[Jonathan Wrobel] 11:08:18
+And I want to see the dependency. And this is where I'm curious how much it costs dependency diagram in nice HTML.
+
+[Jonathan Wrobel] 11:08:31
+flow.
+
+[Nick Ziegler] 11:08:32
+Cool.
+
+[Jonathan Wrobel] 11:08:34
+I think there's a good design.
+
+[Jonathan Wrobel] 11:08:42
+Interesting.
+
+[Jonathan Wrobel] 11:08:48
+Alright, so…
+
+[Jonathan Wrobel] 11:08:52
+While it does all this, we've pushed this up, we can… this is, um…
+
+[Jonathan Wrobel] 11:08:58
+Where would you go? I know where I want to go next.
+
+[Nick Ziegler] 11:09:00
+Mm-hmm.
+
+[Jonathan Wrobel] 11:09:01
+Should we look at the HTML, look at the user stories, and then decide?
+
+[Nick Ziegler] 11:09:07
+Uh, sure, sure.
+
+[Nick Ziegler] 11:09:12
+Yes. Were you going to say **** Smith is what you want to…
+
+[Jonathan Wrobel] 11:09:16
+No, I actually don't want to go to Langsmith. Oh, yeah, there's that on the side. That was the extra point. Oh, we should throw that in there when it's done.
+
+[Nick Ziegler] 11:09:22
+Mm-hmm.
+
+[Jonathan Wrobel] 11:09:23
+All right, so brain is updated. Our project —.
+
+[Jonathan Wrobel] 11:09:35
+It's giving us a design plan.
+
+[Jonathan Wrobel] 11:09:49
+So this is… so this is… and this is in all those questions. Is this worth it? Is this HTML worth it? And that's what I'm… I think it is when you're working with teams, and I find it helpful to be…
+
+[Nick Ziegler] 11:10:00
+Yeah.
+
+[Jonathan Wrobel] 11:10:01
+To see it, and…
+
+[Nick Ziegler] 11:10:06
+Yeah, I do too.
+
+[Jonathan Wrobel] 11:10:07
+I don't know.
+
+[Jonathan Wrobel] 11:10:11
+I also want to see where they put this write down.
+
+[Nick Ziegler] 11:10:11
+That makes sense.
+
+[Nick Ziegler] 11:10:14
+Yeah.
+
+[Jonathan Wrobel] 11:10:17
+What have we actually written in this?
+
+[Jonathan Wrobel] 11:10:20
+Decisions and postures to read me. We got two to read me. Okay.
+
+[Jonathan Wrobel] 11:10:29
+Decisions thing.
+
+[Jonathan Wrobel] 11:10:31
+Process locally for now, project name, manual YouTube upload, weekends, et cetera.
+
+[Jonathan Wrobel] 11:10:35
+We are now at 11:10, which means we're almost out of time.
+
+[Jonathan Wrobel] 11:10:42
+How much more time do you want to spend on this?
+
+[Nick Ziegler] 11:10:44
+Um, I could go another, like, 20 minutes.
+
+[Jonathan Wrobel] 11:10:46
+Okay, here we go.
+
+[Nick Ziegler] 11:10:48
+Cool.
+
+[Jonathan Wrobel] 11:10:52
+The website exists.
+
+[Jonathan Wrobel] 11:10:54
+Place to publish and template to fill. No AI, no upstream dependencies, so I can start immediately.
+
+[Jonathan Wrobel] 11:10:58
+Yep, post template, landing page about us, doesn't block the episode, AI drafts blog post.
+
+[Jonathan Wrobel] 11:11:03
+That one AI step summarizes docs we've already written by hand, not a transcript, a proposed draft human approves.
+
+[Jonathan Wrobel] 11:11:12
+Publish the post, Human Reviews, and publishes it.
+
+[Jonathan Wrobel] 11:11:17
+I mean…
+
+[Jonathan Wrobel] 11:11:20
+And… I mean, we could probably do this literally in the next 20 minutes, I would imagine. So what do you want our webpage to look? So, let's actually…
+
+[Nick Ziegler] 11:11:25
+Yeah.
+
+[Jonathan Wrobel] 11:11:30
+I don't actually see what coding we have to do. Like, I don't know what…
+
+[Nick Ziegler] 11:11:34
+Yeah. Yeah.
+
+[Jonathan Wrobel] 11:11:36
+But we actually do. I think…
+
+[Jonathan Wrobel] 11:11:39
+This is where let's try the GitHub Code Orchestrator, which I think is fun.
+
+[Nick Ziegler] 11:11:42
+Okay.
+
+[Jonathan Wrobel] 11:11:44
+This is where we'll actually play. So. Okay. Love this.
+
+[Nick Ziegler] 11:11:45
+Cool.
+
+[Jonathan Wrobel] 11:11:50
+Um, I think.
+
+[Jonathan Wrobel] 11:11:53
+Let's…
+
+[Jonathan Wrobel] 11:11:56
+Create, uh, GitHub…
+
+[Jonathan Wrobel] 11:11:59
+Issues for each of the…
+
+[Jonathan Wrobel] 11:12:02
+User stories?
+
+[Jonathan Wrobel] 11:12:07
+And…
+
+[Jonathan Wrobel] 11:12:08
+In prep for using the GitHub.
+
+[Jonathan Wrobel] 11:12:15
+What's the sale called?
+
+[Jonathan Wrobel] 11:12:18
+Hmm. I forget. It's something GitHub.
+
+[Jonathan Wrobel] 11:12:21
+I don't remember my own skill. So what I do is I go to Claude skills, and I look for it here.
+
+[Jonathan Wrobel] 11:12:29
+It is…
+
+[Jonathan Wrobel] 11:12:36
+Code review, full path GitHub.
+
+[Jonathan Wrobel] 11:12:41
+This is going to evolve over time. And there's ways to do this. And I'm excited to play with this. But this is my skill to implement.
+
+[Jonathan Wrobel] 11:12:52
+Both.
+
+[Jonathan Wrobel] 11:12:53
+So how many users choice? We have one, two, three.
+
+[Jonathan Wrobel] 11:13:00
+So this could honestly just be, yeah, one, two, implement three. Are there any more user stories?
+
+[Jonathan Wrobel] 11:13:07
+To get this.
+
+[Jonathan Wrobel] 11:13:12
+Maybe just two?
+
+[Nick Ziegler] 11:13:13
+Thanks.
+
+[Nick Ziegler] 11:13:15
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:13:18
+A place to publish and template to fill in.
+
+[Nick Ziegler] 11:13:19
+Mm-hmm.
+
+[Jonathan Wrobel] 11:13:21
+Post template embeds and plays a YouTube video shows the summary.
+
+[Jonathan Wrobel] 11:13:28
+And then…
+
+[Jonathan Wrobel] 11:13:29
+AI address about posts. So we're gonna, I mean, highlight, we're gonna create a website and I think we should.
+
+[Nick Ziegler] 11:13:30
+Mm-hmm.
+
+[Jonathan Wrobel] 11:13:36
+Um, intimate the design of the website. Have you, uh, with Claude Design?
+
+[Jonathan Wrobel] 11:13:46
+to create specs for the…
+
+[Jonathan Wrobel] 11:13:51
+And for the for the full for.
+
+[Jonathan Wrobel] 11:13:56
+to attach to the issue.
+
+[Jonathan Wrobel] 11:14:00
+that are…
+
+[Jonathan Wrobel] 11:14:02
+Orchestrator.
+
+[Jonathan Wrobel] 11:14:07
+Uh, can use. Okay.
+
+[Jonathan Wrobel] 11:14:23
+So I think…
+
+[Jonathan Wrobel] 11:14:25
+we… basically, the re… it's a weird thing, because, like, in some ways, this brain can be the repo for the pages, is my theory. Because it doesn't have any… right now, it's just…
+
+[Nick Ziegler] 11:14:33
+Yeah.
+
+[Jonathan Wrobel] 11:14:36
+It's just content. There's nothing, like, there's no actual code in it.
+
+[Nick Ziegler] 11:14:39
+Yeah. Hmm.
+
+[Jonathan Wrobel] 11:14:44
+Well, it disagrees. That's reasoning, not code.
+
+[Nick Ziegler] 11:14:47
+Okay.
+
+[Jonathan Wrobel] 11:14:52
+Let's talk, let's chat about it.
+
+[Nick Ziegler] 11:14:56
+Okay.
+
+[Jonathan Wrobel] 11:14:57
+Okay.
+
+[Jonathan Wrobel] 11:14:59
+So it's… it just… it basically…
+
+[Jonathan Wrobel] 11:15:04
+What do you think? So you saw… I have… yeah, this is where…
+
+[Nick Ziegler] 11:15:07
+Right.
+
+[Jonathan Wrobel] 11:15:08
+Let's us chat about it, and then we'll take it. Should we create an own repo just for the blog?
+
+[Jonathan Wrobel] 11:15:13
+that has its own GitHub pages, or should we use the GitHub pages for the Team Brain as the blog?
+
+[Nick Ziegler] 11:15:22
+GitHub pages for the Team Brain is the blog, and it disagrees with that because we said…
+
+[Nick Ziegler] 11:15:29
+We don't have code in the team brain.
+
+[Jonathan Wrobel] 11:15:34
+So you can read it. Yeah.
+
+[Nick Ziegler] 11:15:44
+Uh, I mean…
+
+[Nick Ziegler] 11:15:48
+Peter, if you will, for me.
+
+[Nick Ziegler] 11:16:02
+I don't know, I mean, I don't… I don't see what the… why it's a problem to…
+
+[Nick Ziegler] 11:16:08
+Put it there.
+
+[Jonathan Wrobel] 11:16:11
+I think…
+
+[Jonathan Wrobel] 11:16:12
+This is where I would say the only one problem I can see, and we can talk about it with it. Let's dictate.
+
+[Jonathan Wrobel] 11:16:21
+I want to talk through this kind of question of whether we needed a repo.
+
+[Jonathan Wrobel] 11:16:27
+for the BOG, or just use the TeamBrain. I think the arguments for using the repo, the TeamBrain, is that the whole idea is that this TeamBrain has all the self-encapsulated things to kind of run itself, that, like.
+
+[Nick Ziegler] 11:16:28
+Mm-hmm.
+
+[Nick Ziegler] 11:16:38
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:16:39
+like, the decision process, how we think, who it is, it's the team, and so, like, in a way, the Team Brain is the product, and so we could, like, the blog posts can pull, like, from the files within the Team Brain to help generate content, and how, like, actually improve, maybe, the quality of the posts, and, like, so actually having as a reference is.
+
+[Nick Ziegler] 11:16:52
+Yep.
+
+[Jonathan Wrobel] 11:16:57
+possible. And, like, why not just have that be the place that we publish? Um…
+
+[Nick Ziegler] 11:16:58
+Mm-hmm.
+
+[Nick Ziegler] 11:17:02
+Mm-hmm.
+
+[Jonathan Wrobel] 11:17:03
+I think the argument against that is I actually like GitHub pages for other content stuff that is, like.
+
+[Jonathan Wrobel] 11:17:10
+that, like, for instance, publishing this HTML, um…
+
+[Nick Ziegler] 11:17:14
+Mm-hmm.
+
+[Jonathan Wrobel] 11:17:15
+Uh, user story thing. And I don't think that should go necessarily on the blog, right?
+
+[Nick Ziegler] 11:17:18
+Mm-hmm, mm-hmm.
+
+[Jonathan Wrobel] 11:17:20
+So, in a way, like, you could have the team brain know about this repo, and, like, have access… and, like, the agent can always access both, and that, you know, so that you use a team brain to up things, and then we keep the blog pages, like, separate, and we post to them.
+
+[Jonathan Wrobel] 11:17:35
+And so that's, like, a clean separation, and then that way, the shape of that is really just, like, the block. So that's kind of… so I guess that's where I land, and maybe we do… do separately. That way…
+
+[Nick Ziegler] 11:17:36
+Yeah.
+
+[Nick Ziegler] 11:17:40
+Mm-hmm.
+
+[Nick Ziegler] 11:17:46
+Yeah.
+
+[Jonathan Wrobel] 11:17:47
+That's…
+
+[Jonathan Wrobel] 11:17:48
+because I think there is a collision, and I know this, it's like, if you… if we… if we use…
+
+[Nick Ziegler] 11:17:51
+Mm-hmm.
+
+[Jonathan Wrobel] 11:17:55
+the one… the same repo for the brain and the blog, I think that there might… like, you can't hide the blog and the internal HTML. If you want… like, if they're… if they're published on pages, they'll be both published.
+
+[Nick Ziegler] 11:18:07
+Yeah.
+
+[Nick Ziegler] 11:18:09
+Yeah.
+
+[Jonathan Wrobel] 11:18:10
+That's kind of… so I think maybe it's right.
+
+[Nick Ziegler] 11:18:12
+Yep.
+
+[Nick Ziegler] 11:18:12
+Yeah, yeah.
+
+[Jonathan Wrobel] 11:18:13
+So that's where my thought process is. I wonder what you think about a robot.
+
+[Nick Ziegler] 11:18:16
+Mm-hmm.
+
+[Jonathan Wrobel] 11:18:26
+All right. So we need to decide whether to start with that. Arguments, team brain, self-satisfying, everything throws out. Essentially, it's product, , team brain, against.
+
+[Jonathan Wrobel] 11:18:35
+I think we should keep them separate. That's where we're landing? What do you think?
+
+[Nick Ziegler] 11:18:38
+Yeah, I agree. Yeah.
+
+[Jonathan Wrobel] 11:18:46
+So push back if you have strong — have good reason.
+
+[Jonathan Wrobel] 11:18:54
+Alright.
+
+[Jonathan Wrobel] 11:18:55
+No pushback.
+
+[Jonathan Wrobel] 11:18:57
+Fine, robot.
+
+[Jonathan Wrobel] 11:18:59
+You got there for a sharper argument than the one I gave you.
+
+[Jonathan Wrobel] 11:19:04
+Separate repos. Brain needs rights blog. Two arguments solid. The pages collection is a real and disqualifying. GitHub pages publishes the whole repo at one domain. If the brain and blog share the same repo, you cannot publish the blog without also publishing the brain. Every decision doc, every rush, every eternal robe comes.
+
+[Jonathan Wrobel] 11:19:19
+Public URL, essentially. That's not a preference. It's a hard technical constraint.
+
+[Nick Ziegler] 11:19:21
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:19:24
+Okay.
+
+[Jonathan Wrobel] 11:19:27
+The relationship describes exactly the pattern you already established in skills, the brain specifies the code lives elsewhere, the agent has access to both, blog, repo, another elsewhere, so forth. Yeah, so…
+
+[Jonathan Wrobel] 11:19:37
+Okay. Um…
+
+[Jonathan Wrobel] 11:19:39
+So, where does…
+
+[Jonathan Wrobel] 11:19:42
+The blog repo live, what is it called?
+
+[Jonathan Wrobel] 11:19:45
+It should be in the same org, co-owned with you, matches the brains home, we just call it blog.
+
+[Nick Ziegler] 11:19:50
+Mm-hmm. Cool. Yeah.
+
+[Jonathan Wrobel] 11:19:53
+Um, and it's, you know…
+
+[Jonathan Wrobel] 11:19:57
+Broader website or a imposter site? Which one you like? I think it has to be one of these two website or blog.
+
+[Nick Ziegler] 11:20:04
+Yeah.
+
+[Jonathan Wrobel] 11:20:06
+True.
+
+[Jonathan Wrobel] 11:20:08
+Maybe a website.
+
+[Nick Ziegler] 11:20:08
+Um… I mean… Yeah, yeah.
+
+[Jonathan Wrobel] 11:20:10
+Because it's not just a blog, maybe we'll have other things on it.
+
+[Nick Ziegler] 11:20:12
+Yeah.
+
+[Nick Ziegler] 11:20:15
+I agree.
+
+[Jonathan Wrobel] 11:20:17
+All right.
+
+[Jonathan Wrobel] 11:20:19
+All right.
+
+[Jonathan Wrobel] 11:20:22
+Yeah, should that be written as a decision? Yes.
+
+[Nick Ziegler] 11:20:24
+Yes.
+
+[Jonathan Wrobel] 11:20:27
+Okay.
+
+[Jonathan Wrobel] 11:20:28
+So now.
+
+[Jonathan Wrobel] 11:20:31
+I think…
+
+[Jonathan Wrobel] 11:20:33
+And this is where we get to just like, okay.
+
+[Jonathan Wrobel] 11:20:38
+We're at 10 minutes.
+
+[Jonathan Wrobel] 11:20:44
+I need to find this tool that does this. I… I did it in the other thing, I'm gonna have to just burn tokens. I really like what it… I have a setup at work where, like, it auto…
+
+[Jonathan Wrobel] 11:20:55
+publishes any HTML page in…
+
+[Jonathan Wrobel] 11:21:00
+In the, um…
+
+[Jonathan Wrobel] 11:21:04
+in the team brain, so you can click on it as a doc. Um, so… and that's how I would for GitLab, so I assume there's a similar way, so I might want to do that as a separate thing. Um, okay, design spec. How much did I actually design before creating the issue? Um, full visual spec for the episode page, I designed the real thing with Claude, a working HTML mockup.
+
+[Jonathan Wrobel] 11:21:28
+I think we should do… uh, we don't want it to do it.
+
+[Jonathan Wrobel] 11:21:32
+I am thinking lightweight.
+
+[Jonathan Wrobel] 11:21:37
+Specs that we hand. Off to Claude Code Design.
+
+[Jonathan Wrobel] 11:21:44
+And the web to create specs, full specs. Have you used it yet?
+
+[Nick Ziegler] 11:21:48
+No.
+
+[Jonathan Wrobel] 11:21:50
+we will then attach to the issue. So.
+
+[Jonathan Wrobel] 11:21:55
+the GitHub…
+
+[Jonathan Wrobel] 11:21:59
+The full path.
+
+[Jonathan Wrobel] 11:22:01
+GitHub can… can implement.
+
+[Jonathan Wrobel] 11:22:07
+And that issue should be on the new website.
+
+[Jonathan Wrobel] 11:22:12
+repo.
+
+[Jonathan Wrobel] 11:22:15
+Alright.
+
+[Jonathan Wrobel] 11:22:16
+We are coming in time. So this is, like, my call for next time, because I think people can get bored watching me do this all the time. I think… are we committing that next.
+
+[Nick Ziegler] 11:22:17
+Mm-hmm.
+
+[Jonathan Wrobel] 11:22:28
+Time we do this…
+
+[Nick Ziegler] 11:22:28
+Mm-hmm.
+
+[Jonathan Wrobel] 11:22:30
+We have the schedule. You are driving.
+
+[Nick Ziegler] 11:22:33
+Yeah.
+
+[Jonathan Wrobel] 11:22:34
+Okay.
+
+[Nick Ziegler] 11:22:36
+Yeah, let's do it.
+
+[Jonathan Wrobel] 11:22:36
+In whatever way that looks like, okay?
+
+[Nick Ziegler] 11:22:38
+Okay, sure.
+
+[Jonathan Wrobel] 11:22:40
+Which user stories become issues right now? The only critical path, tracer bullet stories, landing page about what stays out. I want a landing page.
+
+[Nick Ziegler] 11:22:52
+Yeah.
+
+[Jonathan Wrobel] 11:22:52
+Let's do all 5, come on.
+
+[Jonathan Wrobel] 11:22:56
+I feel like…
+
+[Nick Ziegler] 11:22:58
+Yeah.
+
+[Jonathan Wrobel] 11:22:58
+Let's do all five.
+
+[Jonathan Wrobel] 11:23:03
+That's what this like, we're not gonna hand it off anyways.
+
+[Nick Ziegler] 11:23:06
+Mm-hmm.
+
+[Jonathan Wrobel] 11:23:13
+Oh, it's just gassing me up. That's a clean saturation, and it's smart. Why, thank you!
+
+[Jonathan Wrobel] 11:23:20
+So we're so smart.
+
+[Nick Ziegler] 11:23:22
+We're so smart.
+
+[Jonathan Wrobel] 11:23:25
+It's so weird not to feel…
+
+[Jonathan Wrobel] 11:23:28
+They're like, I wonder like how you react to like this human. So now it's not time to do philosophically about this.
+
+[Jonathan Wrobel] 11:23:38
+Have you…
+
+[Jonathan Wrobel] 11:23:40
+you know, so one thing here, like, if I was at work, and I was waiting, I'm now talking to you, because we're waiting, right? Because it's doing some stuff. At work, what would you do? Because I can tell you.
+
+[Nick Ziegler] 11:23:45
+Mm-hmm.
+
+[Jonathan Wrobel] 11:23:50
+Which is not necessarily good. In this moment, what would you do?
+
+[Nick Ziegler] 11:23:54
+Uh, it depends if I have other in-flight things, I would, like…
+
+[Nick Ziegler] 11:23:59
+you know, juggle or multitask.
+
+[Jonathan Wrobel] 11:24:00
+Yeah, when you just go to the next thing, I just go to my next thing, like, okay, what's gonna be here? So then I'm really, like, jumping from one complete thing to another, which is, like, not… by the way, it's created, like, we already have a repo.
+
+[Nick Ziegler] 11:24:04
+Yep.
+
+[Nick Ziegler] 11:24:04
+Right.
+
+[Jonathan Wrobel] 11:24:13
+Now it's creating the issues.
+
+[Jonathan Wrobel] 11:24:16
+Pretty cool.
+
+[Nick Ziegler] 11:24:18
+Pretty cool.
+
+[Jonathan Wrobel] 11:24:19
+You want to see our repo?
+
+[Nick Ziegler] 11:24:19
+Yeah.
+
+[Jonathan Wrobel] 11:24:23
+So, I gotta make you…
+
+[Jonathan Wrobel] 11:24:25
+Okay, there's our repo website.
+
+[Jonathan Wrobel] 11:24:29
+Let's add you to…
+
+[Jonathan Wrobel] 11:24:33
+Did I already invite you?
+
+[Nick Ziegler] 11:24:35
+I think, I think you did. Yeah.
+
+[Jonathan Wrobel] 11:24:36
+Yeah, you're already in there. Okay.
+
+[Jonathan Wrobel] 11:24:40
+We should get… we should do some, uh…
+
+[Jonathan Wrobel] 11:24:47
+We can't. Let's do this. Am I sharing my screen? I am, right?
+
+[Nick Ziegler] 11:24:50
+Yep. Mm-hmm.
+
+[Jonathan Wrobel] 11:24:53
+Oh, that's not good.
+
+[Jonathan Wrobel] 11:24:57
+I'll have to fix that.
+
+[Jonathan Wrobel] 11:25:01
+All right.
+
+[Jonathan Wrobel] 11:25:02
+I wanna go chatty petite. I don't want my bank here.
+
+[Jonathan Wrobel] 11:25:08
+And… we have to… what do I have to do?
+
+[Jonathan Wrobel] 11:25:13
+I had to essentially… I wanted to get an image for our thing.
+
+[Nick Ziegler] 11:25:17
+Yeah.
+
+[Jonathan Wrobel] 11:25:19
+What should it be?
+
+[Jonathan Wrobel] 11:25:22
+So.
+
+[Jonathan Wrobel] 11:25:23
+Create.
+
+[Nick Ziegler] 11:25:24
+Mm-hmm.
+
+[Jonathan Wrobel] 11:25:28
+Was it a branding image?
+
+[Nick Ziegler] 11:25:31
+All right.
+
+[Jonathan Wrobel] 11:25:32
+For…
+
+[Jonathan Wrobel] 11:25:35
+are for this.
+
+[Jonathan Wrobel] 11:25:36
+Concept.
+
+[Jonathan Wrobel] 11:25:38
+And this thing, and this is what I'll do, is I'll just…
+
+[Jonathan Wrobel] 11:25:42
+Take this.
+
+[Jonathan Wrobel] 11:25:44
+Take this.
+
+[Jonathan Wrobel] 11:25:50
+I'll just give it a readme.
+
+[Nick Ziegler] 11:25:53
+Yeah.
+
+[Nick Ziegler] 11:26:00
+Yeah. And maybe instead of, branding image, like, avatar, we could so that.
+
+[Jonathan Wrobel] 11:26:05
+Yeah, branding, image, concepts, avatar.
+
+[Nick Ziegler] 11:26:11
+Yeah.
+
+[Jonathan Wrobel] 11:26:12
+that we can use for our GitHub space.
+
+[Jonathan Wrobel] 11:26:20
+And for any other, what's it called, like possible.
+
+[Jonathan Wrobel] 11:26:25
+branding, logos…
+
+[Nick Ziegler] 11:26:28
+Yeah.
+
+[Jonathan Wrobel] 11:26:29
+For our site.
+
+[Jonathan Wrobel] 11:26:33
+And at the end was to surprise me.
+
+[Jonathan Wrobel] 11:26:37
+Wait, 10… how many versions? 5?
+
+[Nick Ziegler] 11:26:40
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:26:42
+Five versions.
+
+[Nick Ziegler] 11:26:44
+Mm-hmm.
+
+[Jonathan Wrobel] 11:26:44
+Okay.
+
+[Jonathan Wrobel] 11:26:47
+Alright.
+
+[Jonathan Wrobel] 11:26:50
+So…
+
+[Jonathan Wrobel] 11:26:55
+Can you open? Can you open?
+
+[Jonathan Wrobel] 11:27:00
+Alright, so let's actually look at our repo.
+
+[Jonathan Wrobel] 11:27:04
+So we should have two repositories. We have website.
+
+[Jonathan Wrobel] 11:27:14
+I guess we have to basically…
+
+[Jonathan Wrobel] 11:27:18
+We have to set this up, but we don't need to do that. We can ask it to do it, but we have five issues. Here they are. One, two, about us landing page, deferred.
+
+[Jonathan Wrobel] 11:27:28
+Official path, published and approved draft, when a GitHub page publishes the site.
+
+[Jonathan Wrobel] 11:27:34
+Stand up a GitHub pages for ambassador website so that it becomes a repo, plus there's a public URL.
+
+[Jonathan Wrobel] 11:27:39
+Why? First trace of bullet, handwritten doc becomes AI doc about buzz requirement.
+
+[Jonathan Wrobel] 11:27:44
+Visiting the page URL, real HP two hundred, commit to the repo, results in visibly updated page, remit documents. Okay. So we do do you wanna try to get the design handoff real quick?
+
+[Jonathan Wrobel] 11:27:55
+And then hand it off, and then we'll see what we get when we come back. That'll be our last thing.
+
+[Nick Ziegler] 11:27:56
+Yeah. Okay.
+
+[Nick Ziegler] 11:27:59
+Yeah.
+
+[Nick Ziegler] 11:28:00
+Yeah, sounds good.
+
+[Jonathan Wrobel] 11:28:00
+I'll hand this to the orchestrator with the design docs, and then we'll see what the website looks like in, like, however long it takes it, but we'll sign off, and it'll be, like, our reveal for next week.
+
+[Nick Ziegler] 11:28:05
+Cool.
+
+[Nick Ziegler] 11:28:11
+Yeah, yeah, okay, awesome.
+
+[Jonathan Wrobel] 11:28:13
+Okay, um…
+
+[Jonathan Wrobel] 11:28:17
+Alright. So we're going to Claude Design.
+
+[Jonathan Wrobel] 11:28:24
+And then we're going to go…
+
+[Jonathan Wrobel] 11:28:29
+Well, you want a new…
+
+[Jonathan Wrobel] 11:28:33
+Or, excuse me.
+
+[Jonathan Wrobel] 11:28:35
+attach a…
+
+[Jonathan Wrobel] 11:28:37
+File…
+
+[Jonathan Wrobel] 11:28:41
+We have…
+
+[Jonathan Wrobel] 11:28:46
+Okay.
+
+[Jonathan Wrobel] 11:28:47
+Where did you put the design specs?
+
+[Jonathan Wrobel] 11:28:55
+But I can hand to Claude a code. Did you create that?
+
+[Jonathan Wrobel] 11:29:02
+Uh, I don't know if it did. I don't.
+
+[Jonathan Wrobel] 11:29:07
+I'm a little bit…
+
+[Jonathan Wrobel] 11:29:09
+Annoyed.
+
+[Jonathan Wrobel] 11:29:12
+With how late?
+
+[Jonathan Wrobel] 11:29:14
+this fo- this folder is. Like, I would expect there to be more things in here.
+
+[Jonathan Wrobel] 11:29:21
+I would expect…
+
+[Jonathan Wrobel] 11:29:24
+more, uh…
+
+[Jonathan Wrobel] 11:29:26
+of your work in here.
+
+[Jonathan Wrobel] 11:29:30
+The HTML, user stories, the design specs.
+
+[Jonathan Wrobel] 11:29:40
+Nah.
+
+[Jonathan Wrobel] 11:29:43
+I don't know why this is…
+
+[Nick Ziegler] 11:29:45
+Yeah.
+
+[Jonathan Wrobel] 11:29:47
+There, the design specs.
+
+[Jonathan Wrobel] 11:29:49
+And all of your output.
+
+[Jonathan Wrobel] 11:29:53
+Is it elsewhere?
+
+[Jonathan Wrobel] 11:29:56
+Can you move it there?
+
+[Jonathan Wrobel] 11:29:58
+Okay.
+
+[Nick Ziegler] 11:30:00
+Okay.
+
+[Jonathan Wrobel] 11:30:05
+Yeah, this is… I think they're putting it in Workbench, which is… this is, again, will come up.
+
+[Jonathan Wrobel] 11:30:10
+Because this whole thing is a work branch.
+
+[Jonathan Wrobel] 11:30:13
+I think all of it should go in Workbench. Like, in… yeah.
+
+[Nick Ziegler] 11:30:18
+Yeah, yeah.
+
+[Jonathan Wrobel] 11:30:25
+They're the… yeah, what we're building, they belong in projects, but yep, HTML is an anagram.
+
+[Jonathan Wrobel] 11:30:32
+Yeah.
+
+[Jonathan Wrobel] 11:30:39
+Yes, so projects AMP specs with one file per story and a README index linking to the GitHub issues matches the team brains every folder.
+
+[Jonathan Wrobel] 11:30:47
+I think that's good.
+
+[Nick Ziegler] 11:30:48
+Mm-hmm.
+
+[Jonathan Wrobel] 11:30:52
+Um, HTML photo against currently only host artifact URL. What's the actual file live? Uh, I think it should be…
+
+[Jonathan Wrobel] 11:31:00
+Um, put the HTML in the brain.
+
+[Jonathan Wrobel] 11:31:06
+Yep.
+
+[Jonathan Wrobel] 11:31:09
+And I will say…
+
+[Jonathan Wrobel] 11:31:13
+Okay.
+
+[Jonathan Wrobel] 11:31:14
+So, let's…
+
+[Jonathan Wrobel] 11:31:17
+So we have to wait for these specs to come up for the thing. So have you played with — but let's go back to Cloud Code. And I was going to attach it to here and say, but let's — what websites do you like the look of? Because I think if we give it a few screenshots, otherwise it designs everything to be just like —.
+
+[Nick Ziegler] 11:31:20
+Mm-hmm.
+
+[Jonathan Wrobel] 11:31:35
+Quad.
+
+[Nick Ziegler] 11:31:36
+Yeah, right.
+
+[Jonathan Wrobel] 11:31:38
+You have to work to have it not look like… have you heard there's, like, a post, like, why do all the websites look like Claude now.
+
+[Nick Ziegler] 11:31:43
+Yeah.
+
+[Jonathan Wrobel] 11:31:43
+Have you seen that?
+
+[Nick Ziegler] 11:31:45
+Yeah, uh-huh.
+
+[Jonathan Wrobel] 11:31:47
+Um, so, do we want it to look like Claude as the first pass, or do we want to, like, give it some other examples?
+
+[Jonathan Wrobel] 11:31:56
+Well, let's see what this came up with.
+
+[Nick Ziegler] 11:31:58
+Well, yeah, let's…
+
+[Jonathan Wrobel] 11:32:00
+I hate all of those.
+
+[Jonathan Wrobel] 11:32:03
+Well…
+
+[Jonathan Wrobel] 11:32:06
+At least it's a good…
+
+[Nick Ziegler] 11:32:10
+A good mix.
+
+[Jonathan Wrobel] 11:32:13
+Ha!
+
+[Jonathan Wrobel] 11:32:14
+That's really funny. I don't know. What what do you yeah. Is it any of these? Any of these?
+
+[Nick Ziegler] 11:32:18
+And it is, um…
+
+[Jonathan Wrobel] 11:32:22
+Do you like the purple and white?
+
+[Jonathan Wrobel] 11:32:26
+What's her color?
+
+[Nick Ziegler] 11:32:29
+Yeah, I don't live, uh…
+
+[Nick Ziegler] 11:32:33
+I don't love any of these.
+
+[Jonathan Wrobel] 11:32:38
+Okay. What do you let's describe what we like. Yeah. First of all, what's our color scheme?
+
+[Nick Ziegler] 11:32:41
+Yeah.
+
+[Jonathan Wrobel] 11:32:43
+What color scheme do you want?
+
+[Nick Ziegler] 11:32:51
+Hmm. This is tough. This is…
+
+[Jonathan Wrobel] 11:32:52
+I have an idea.
+
+[Nick Ziegler] 11:32:53
+I feel like…
+
+[Jonathan Wrobel] 11:32:54
+Could your daughter draw it for us, and then we use that?
+
+[Nick Ziegler] 11:33:00
+My son, my son could try.
+
+[Jonathan Wrobel] 11:33:02
+Your son. Oh, you don't have a daughter, that's right, you.
+
+[Nick Ziegler] 11:33:03
+I do. No, she's like four. She's like.
+
+[Jonathan Wrobel] 11:33:05
+Yeah, but she's 4. She could do. Yeah, she's 4, right? 4 months. Oh, yeah, 4 months old. Yeah. So she can't do it. Your son, your.
+
+[Nick Ziegler] 11:33:07
+She's four months old. No, she's four months. Yeah.
+
+[Jonathan Wrobel] 11:33:12
+Um, I guess my daughter could, could add them, but um…
+
+[Nick Ziegler] 11:33:15
+Yeah.
+
+[Jonathan Wrobel] 11:33:19
+Alright, we are… we'll wait till that's done, but uh…
+
+[Nick Ziegler] 11:33:21
+Okay.
+
+[Jonathan Wrobel] 11:33:22
+Alright, do we want… do you want to guide this to something else?
+
+[Nick Ziegler] 11:33:27
+I don't even know what I want to guide it to, though.
+
+[Nick Ziegler] 11:33:34
+Let me let me see if I can think of Earth.
+
+[Jonathan Wrobel] 11:33:34
+Yeah.
+
+[Jonathan Wrobel] 11:33:37
+Forced to say what you don't or do like about any of these things. What do you like about this one? The first one.
+
+[Nick Ziegler] 11:33:48
+I don't know. I mean, it's so clearly like AI.
+
+[Nick Ziegler] 11:33:54
+Uh, created.
+
+[Jonathan Wrobel] 11:33:56
+Well, yeah.
+
+[Jonathan Wrobel] 11:33:58
+Probably not gonna get away from that.
+
+[Nick Ziegler] 11:34:01
+Yeah. Yeah. True.
+
+[Jonathan Wrobel] 11:34:06
+But…
+
+[Nick Ziegler] 11:34:08
+I like the, uh, the command line, uh…
+
+[Jonathan Wrobel] 11:34:12
+You like the, the, the AI and Boston, the, the, with the, like this thing, this?
+
+[Nick Ziegler] 11:34:17
+This thing. I like this thing. Yeah.
+
+[Jonathan Wrobel] 11:34:19
+That little check, that part.
+
+[Nick Ziegler] 11:34:21
+Yeah.
+
+[Jonathan Wrobel] 11:34:21
+Okay. So we like AI and process. Okay. Do you like that better than this?
+
+[Jonathan Wrobel] 11:34:28
+Do you like how…
+
+[Nick Ziegler] 11:34:28
+Yeah.
+
+[Jonathan Wrobel] 11:34:29
+Mm, I don't know if I like…
+
+[Nick Ziegler] 11:34:31
+I mean…
+
+[Jonathan Wrobel] 11:34:32
+Separate the words, though. I think that's… I think we need that.
+
+[Nick Ziegler] 11:34:33
+Drew.
+
+[Nick Ziegler] 11:34:35
+You need that, yeah.
+
+[Jonathan Wrobel] 11:34:36
+I like that. So we could take this and add it to here.
+
+[Nick Ziegler] 11:34:38
+Uh-huh.
+
+[Jonathan Wrobel] 11:34:44
+AI…
+
+[Jonathan Wrobel] 11:34:49
+OK. All right. So AI imposter syndrome.
+
+[Jonathan Wrobel] 11:34:53
+Do you like any of this?
+
+[Jonathan Wrobel] 11:34:56
+Taglines? Building an AI native software in public, one engineering session at a time.
+
+[Nick Ziegler] 11:35:02
+It's not bad.
+
+[Jonathan Wrobel] 11:35:04
+It's actually not… I think it's pulled from our other stuff.
+
+[Nick Ziegler] 11:35:06
+Yeah, right. It's not bad. Yeah.
+
+[Jonathan Wrobel] 11:35:10
+This one's kind of cute.
+
+[Nick Ziegler] 11:35:11
+Yeah, I'd probably say of all those.
+
+[Nick Ziegler] 11:35:15
+Yeah, I like that one the most.
+
+[Jonathan Wrobel] 11:35:15
+I mean, it's very nerdy, right?
+
+[Nick Ziegler] 11:35:17
+It's very nerdy, yeah.
+
+[Jonathan Wrobel] 11:35:20
+We can always change our brand. We don't have… this is our first tenth. That's the thing, you can change it every.
+
+[Nick Ziegler] 11:35:23
+Yeah.
+
+[Jonathan Wrobel] 11:35:24
+Alright, do you like the two people?
+
+[Jonathan Wrobel] 11:35:27
+Do you want to get rid of the cartoon people?
+
+[Nick Ziegler] 11:35:32
+Yeah. I think the cartoon people gotta go.
+
+[Jonathan Wrobel] 11:35:34
+Okay. Do we I kinda like the microphone concept.
+
+[Nick Ziegler] 11:35:40
+Okay, yeah, I like the microphone. It's pretty central.
+
+[Jonathan Wrobel] 11:35:41
+I don't know how, if we can move this to that, like, somehow blend that microphone with this, and keep the AI imposter syndrome, and then get rid of the…
+
+[Nick Ziegler] 11:35:45
+Yeah.
+
+[Nick Ziegler] 11:35:49
+Uh-huh.
+
+[Jonathan Wrobel] 11:35:53
+Get rid of the…
+
+[Jonathan Wrobel] 11:35:56
+Yeah, maybe get rid of the two people version, and I don't like that. That's too freaky.
+
+[Nick Ziegler] 11:35:58
+Yeah.
+
+[Nick Ziegler] 11:36:00
+Yeah.
+
+[Jonathan Wrobel] 11:36:00
+All right, that's good. All right.
+
+[Nick Ziegler] 11:36:03
+Okay.
+
+[Jonathan Wrobel] 11:36:04
+Good, first, first.
+
+[Jonathan Wrobel] 11:36:07
+Start. Robot.
+
+[Jonathan Wrobel] 11:36:11
+We, like, now…
+
+[Jonathan Wrobel] 11:36:15
+Uh, 10 more.
+
+[Jonathan Wrobel] 11:36:18
+with…
+
+[Jonathan Wrobel] 11:36:20
+we…
+
+[Jonathan Wrobel] 11:36:22
+want to keep the.
+
+[Jonathan Wrobel] 11:36:26
+This the sign of like this, right?
+
+[Jonathan Wrobel] 11:36:31
+from the…
+
+[Jonathan Wrobel] 11:36:32
+Terminal.
+
+[Jonathan Wrobel] 11:36:35
+And we want to keep the words AI imposter.
+
+[Jonathan Wrobel] 11:36:42
+Syndrome, imposter, or…
+
+[Jonathan Wrobel] 11:36:46
+Like, the word…
+
+[Jonathan Wrobel] 11:36:50
+Connected.
+
+[Jonathan Wrobel] 11:36:52
+And we want to drop the figures, right?
+
+[Nick Ziegler] 11:36:57
+Okay.
+
+[Jonathan Wrobel] 11:36:59
+We want to drop the figures and find maybe a way to keep the…
+
+[Jonathan Wrobel] 11:37:06
+Uh, what's it called? The microphone.
+
+[Nick Ziegler] 11:37:12
+Yeah.
+
+[Jonathan Wrobel] 11:37:12
+We hate version 5.
+
+[Jonathan Wrobel] 11:37:18
+Prefer…
+
+[Jonathan Wrobel] 11:37:20
+Version, uh…
+
+[Jonathan Wrobel] 11:37:22
+Three.
+
+[Jonathan Wrobel] 11:37:23
+And…
+
+[Jonathan Wrobel] 11:37:25
+I think version two without the figures, it's not so bad.
+
+[Nick Ziegler] 11:37:29
+Yeah. Yeah. Agreed.
+
+[Jonathan Wrobel] 11:37:32
+Also…
+
+[Jonathan Wrobel] 11:37:34
+Let's try a…
+
+[Jonathan Wrobel] 11:37:36
+Like, different…
+
+[Jonathan Wrobel] 11:37:39
+other schemes.
+
+[Jonathan Wrobel] 11:37:42
+Other than purple. What's your favorite color?
+
+[Nick Ziegler] 11:37:47
+Blue.
+
+[Nick Ziegler] 11:37:48
+But we don't have to use it.
+
+[Jonathan Wrobel] 11:37:51
+We should at least try it. I mean, purple is one of my favorite colors, which is weird, but I just don't like… yeah, other than.
+
+[Nick Ziegler] 11:37:55
+Yeah.
+
+[Jonathan Wrobel] 11:37:56
+And blue.
+
+[Jonathan Wrobel] 11:37:57
+Uh, other than purple.
+
+[Nick Ziegler] 11:37:59
+Mm-hmm.
+
+[Jonathan Wrobel] 11:38:04
+Nick's favorite color is blue.
+
+[Nick Ziegler] 11:38:06
+Okay, I'm gonna grab my charger. We'll be right.
+
+[Jonathan Wrobel] 11:38:08
+Yeah.
+
+[Jonathan Wrobel] 11:38:11
+Get creative.
+
+[Jonathan Wrobel] 11:39:20
+I'm just sitting here by myself while he went there. We'll have to edit this part out. Or not.
+
+[Jonathan Wrobel] 11:39:25
+But he's back.
+
+[Nick Ziegler] 11:39:27
+All right, I'm back. It was —.
+
+[Jonathan Wrobel] 11:39:29
+Yeah.
+
+[Nick Ziegler] 11:39:30
+Sleeping baby's room, so I had to be…
+
+[Nick Ziegler] 11:39:33
+Be quiet.
+
+[Jonathan Wrobel] 11:39:36
+Oh, we got 10 more.
+
+[Nick Ziegler] 11:39:44
+Okay, a little bit better.
+
+[Jonathan Wrobel] 11:39:48
+I like these.
+
+[Nick Ziegler] 11:39:50
+Yes.
+
+[Jonathan Wrobel] 11:39:51
+A little more.
+
+[Nick Ziegler] 11:39:52
+Yeah.
+
+[Jonathan Wrobel] 11:39:52
+All right. What's your, what's your favorite?
+
+[Nick Ziegler] 11:39:57
+Hmm…
+
+[Nick Ziegler] 11:40:07
+Let's see, ones I like. Yeah, I like…
+
+[Nick Ziegler] 11:40:15
+like, 5…
+
+[Nick Ziegler] 11:40:25
+Interesting tent.
+
+[Nick Ziegler] 11:40:27
+10 is kind of interesting too.
+
+[Jonathan Wrobel] 11:40:29
+I like the orange and pink.
+
+[Nick Ziegler] 11:40:31
+Yeah, yeah.
+
+[Jonathan Wrobel] 11:40:31
+I almost like if you took the orange and pink and put it here, and you had the little thing…
+
+[Nick Ziegler] 11:40:37
+Yeah, right. Uh-huh.
+
+[Jonathan Wrobel] 11:40:40
+I, like, kinda like that. So if you combine this I don't know. So the question is, do we want a dark website or a white light site?
+
+[Nick Ziegler] 11:40:47
+Yeah.
+
+[Jonathan Wrobel] 11:40:48
+Which one do you like for this case?
+
+[Nick Ziegler] 11:40:50
+I mean…
+
+[Nick Ziegler] 11:40:51
+I probably like dark.
+
+[Nick Ziegler] 11:40:54
+How about you?
+
+[Jonathan Wrobel] 11:40:54
+Okay.
+
+[Jonathan Wrobel] 11:40:55
+I think I'd go more for night, but I think, in this case, I think dark is good. So let's try it out. Um, is there anything about… do you like this box?
+
+[Nick Ziegler] 11:41:00
+Okay.
+
+[Nick Ziegler] 11:41:04
+Hmm.
+
+[Jonathan Wrobel] 11:41:05
+I don't… or no, I think this… yeah, I think this is it. I think that would be good. Like, combine… let's try.
+
+[Nick Ziegler] 11:41:09
+Mm-hmm.
+
+[Nick Ziegler] 11:41:11
+Yeah, I like the colors of 10 and yeah.
+
+[Jonathan Wrobel] 11:41:15
+Can you combine…
+
+[Jonathan Wrobel] 11:41:17
+The colors of version 10.
+
+[Jonathan Wrobel] 11:41:21
+with the design of version 5, and maybe.
+
+[Jonathan Wrobel] 11:41:31
+Should they fatten the lines a little bit more?
+
+[Jonathan Wrobel] 11:41:33
+Or no.
+
+[Jonathan Wrobel] 11:41:36
+No, I think it's fine.
+
+[Jonathan Wrobel] 11:41:39
+Let's see.
+
+[Jonathan Wrobel] 11:41:43
+Okay.
+
+[Jonathan Wrobel] 11:41:45
+So…
+
+[Jonathan Wrobel] 11:41:49
+It did all these specs, which is awesome.
+
+[Nick Ziegler] 11:41:52
+Cool.
+
+[Jonathan Wrobel] 11:41:53
+We have our tracer for now. We have it. So one a, GitHub landing pages.
+
+[Jonathan Wrobel] 11:41:59
+We need a full visual spec limitation. Hand this to CloDesign for homepage, layout, typography.
+
+[Jonathan Wrobel] 11:42:06
+So what I honestly think is I'm gonna do…
+
+[Jonathan Wrobel] 11:42:10
+is… I feel like…
+
+[Jonathan Wrobel] 11:42:17
+Can we add to this spec?
+
+[Jonathan Wrobel] 11:42:20
+the prompt we want to give to Design Hub. Design quad code.
+
+[Jonathan Wrobel] 11:42:29
+To give it a sense.
+
+[Jonathan Wrobel] 11:42:32
+Of what we are building.
+
+[Jonathan Wrobel] 11:42:35
+And I… and we will…
+
+[Jonathan Wrobel] 11:42:39
+Add an initial, what is it? Kind of branding.
+
+[Jonathan Wrobel] 11:42:43
+image that it can use to jump off.
+
+[Jonathan Wrobel] 11:42:56
+Okay.
+
+[Jonathan Wrobel] 11:42:58
+There you go.
+
+[Nick Ziegler] 11:42:59
+All right.
+
+[Jonathan Wrobel] 11:43:01
+It's not bad.
+
+[Nick Ziegler] 11:43:02
+Yeah, it's not bad.
+
+[Jonathan Wrobel] 11:43:08
+Download.
+
+[Jonathan Wrobel] 11:43:12
+AI imposter.
+
+[Jonathan Wrobel] 11:43:16
+Syndrome. Did it spell imposter syndrome right?
+
+[Nick Ziegler] 11:43:18
+Mm-hmm, yeah.
+
+[Jonathan Wrobel] 11:43:20
+I was spelling it wrong. Do you realize that? That was so funny.
+
+[Nick Ziegler] 11:43:22
+I didn't realize that, yeah.
+
+[Jonathan Wrobel] 11:43:24
+That's spelled right, yeah.
+
+[Nick Ziegler] 11:43:25
+Yep.
+
+[Jonathan Wrobel] 11:43:25
+So we download.
+
+[Jonathan Wrobel] 11:43:30
+AI imposter syndrome.
+
+[Jonathan Wrobel] 11:43:35
+Logo? Is that where we are?
+
+[Nick Ziegler] 11:43:35
+Yeah, yeah.
+
+[Jonathan Wrobel] 11:43:38
+And we'll add that to our team brain.
+
+[Nick Ziegler] 11:43:45
+Curious why you didn't use Claude for…
+
+[Nick Ziegler] 11:43:48
+generating the…
+
+[Jonathan Wrobel] 11:43:51
+I don't know. You know, my good answer is, like, I generally like ChatGPT's image creation more than Claude's. Claude does, like…
+
+[Nick Ziegler] 11:43:53
+Have you used…
+
+[Jonathan Wrobel] 11:44:01
+could, like, web design stuff, but I haven't… we should just see. Let's give it… let's honestly, like, I don't know. That's a gut check. So let's actually give…
+
+[Nick Ziegler] 11:44:12
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:44:12
+Claude design, the exact same thing.
+
+[Jonathan Wrobel] 11:44:14
+And see what it does, because why not? Let's burn our tokens.
+
+[Nick Ziegler] 11:44:17
+Yeah.
+
+[Jonathan Wrobel] 11:44:20
+This.
+
+[Jonathan Wrobel] 11:44:22
+And…
+
+[Jonathan Wrobel] 11:44:24
+And then it'll be really fun to see, and this will be our experiment. And then we'll give it…
+
+[Jonathan Wrobel] 11:44:29
+I guess we can only give the first one, right?
+
+[Nick Ziegler] 11:44:31
+Right.
+
+[Jonathan Wrobel] 11:44:36
+Make a logo.
+
+[Jonathan Wrobel] 11:44:42
+Okay.
+
+[Jonathan Wrobel] 11:44:51
+Okay. So…
+
+[Jonathan Wrobel] 11:44:55
+Um, I ask it to basically…
+
+[Jonathan Wrobel] 11:44:58
+Give me the instructions.
+
+[Jonathan Wrobel] 11:45:01
+Design handoff. Design a homepage for AMP Process Jeremy. We'll have our two engineers, Jonathan and Nick, build an AMP project at such a live week. Each segment is an.
+
+[Jonathan Wrobel] 11:45:10
+Uh, the homepage, tell the first visitor, show in less than seconds, point them at the episodes, and the front website core unit, embedded YouTube videos, plus AI drafted written summary.
+
+[Jonathan Wrobel] 11:45:20
+Use the attached branding image as a starting point. Build the system outward from it rather than replacing it. Deliver a homepage with a hero that states the thesis, episode list, preview, what it is.
+
+[Jonathan Wrobel] 11:45:31
+Phone design itself.
+
+[Jonathan Wrobel] 11:45:33
+Okay.
+
+[Nick Ziegler] 11:45:34
+Mm-hmm.
+
+[Jonathan Wrobel] 11:45:37
+We are, we are now, how much time we're over? We're, guess where we started at 10. We are now at an hour and 45 minutes. Is that right?
+
+[Nick Ziegler] 11:45:45
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:45:45
+Okay, so…
+
+[Jonathan Wrobel] 11:45:49
+Do you want to see what it did?
+
+[Nick Ziegler] 11:45:51
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:45:52
+Yeah, see, this is the thing. This is a slot machine action, right? We're gonna have to talk about this in our…
+
+[Nick Ziegler] 11:45:57
+Mm, yeah.
+
+[Jonathan Wrobel] 11:46:00
+in our imposter syndrome. Um…
+
+[Jonathan Wrobel] 11:46:04
+Because it's like, I…
+
+[Jonathan Wrobel] 11:46:09
+Oh, wow. Here it goes. It's gonna do five of them.
+
+[Jonathan Wrobel] 11:46:12
+Like, the fact that this is a…
+
+[Jonathan Wrobel] 11:46:21
+Like, you don't know what you're gonna get, and so you get surprised, and you can enjoy it or not. Oh, that's cool, it blinks.
+
+[Nick Ziegler] 11:46:24
+Yeah.
+
+[Jonathan Wrobel] 11:46:37
+We have more choices. What are you going to do?
+
+[Jonathan Wrobel] 11:46:41
+We didn't give it… I mean, it didn't land on the radio. Like, the other one kind of got creative, which I kind of like.
+
+[Nick Ziegler] 11:46:45
+Yeah.
+
+[Nick Ziegler] 11:46:45
+I mean, I wonder if, because we said, make a logo. It's.
+
+[Nick Ziegler] 11:46:50
+honing more in on like a, you know, making something smaller that would just be a logo.
+
+[Jonathan Wrobel] 11:46:57
+Oh, you wanna see if I just did exact the same.
+
+[Nick Ziegler] 11:46:59
+Mm-hmm.
+
+[Jonathan Wrobel] 11:47:01
+Yeah. That's a better that's a fair question. Let's actually go back.
+
+[Nick Ziegler] 11:47:05
+Mm-hmm.
+
+[Jonathan Wrobel] 11:47:05
+And I'll do the…
+
+[Jonathan Wrobel] 11:47:10
+Go here.
+
+[Jonathan Wrobel] 11:47:12
+Do the exact same thing. So you want nothing…
+
+[Jonathan Wrobel] 11:47:15
+It's just that, right?
+
+[Nick Ziegler] 11:47:17
+Yeah, exact same problem.
+
+[Jonathan Wrobel] 11:47:19
+Okay. Fair.
+
+[Jonathan Wrobel] 11:47:26
+I don't know if I like any of these.
+
+[Nick Ziegler] 11:47:30
+Yeah.
+
+[Jonathan Wrobel] 11:47:30
+But it is, like, you're right, it is…
+
+[Nick Ziegler] 11:47:33
+No, you're right, though. I…
+
+[Jonathan Wrobel] 11:47:34
+What?
+
+[Jonathan Wrobel] 11:47:35
+I like this part.
+
+[Nick Ziegler] 11:47:36
+That's cool. Yeah.
+
+[Jonathan Wrobel] 11:47:37
+We can have it ours like have the have the thing move like a radio thing.
+
+[Nick Ziegler] 11:47:42
+Mm-hmm.
+
+[Nick Ziegler] 11:47:45
+Oh, yeah.
+
+[Nick Ziegler] 11:47:47
+Radio thing, yeah.
+
+[Jonathan Wrobel] 11:47:48
+That'd be cute.
+
+[Nick Ziegler] 11:47:49
+That would be cool, yeah. Okay.
+
+[Jonathan Wrobel] 11:47:57
+Okay, it's still thinking.
+
+[Jonathan Wrobel] 11:47:59
+Alright. So I yeah. We're hitting a stopwatching hard.
+
+[Jonathan Wrobel] 11:48:03
+Okay, so I think what we have, just to kind of close out where we're at, and then, um…
+
+[Nick Ziegler] 11:48:06
+Mm-hmm.
+
+[Jonathan Wrobel] 11:48:09
+You're… you know what your homework is. I will take the transcription of this, I will upload it to this.
+
+[Nick Ziegler] 11:48:11
+Mm-hmm.
+
+[Jonathan Wrobel] 11:48:15
+I will basically, on my machine, point to.
+
+[Jonathan Wrobel] 11:48:19
+I will have… I'll run Claude and have it run the… the issue. So just to… so this is… and this is where I… we haven't really talked about how I think about doing this now, is that this is the issue.
+
+[Jonathan Wrobel] 11:48:33
+And it's going to use this kind of as a back end.
+
+[Jonathan Wrobel] 11:48:38
+So I'm just basically going to be like, here's your issue. Run this. And it has — I've already set up where it has GitHub API access. And it'll just basically run through this whole thing and make decisions and make disturbances and blah, blah, and blah, blah. And it should run through the whole thing. And we'll get a bunch of comments, basically, what it chose to do and why.
+
+[Nick Ziegler] 11:48:38
+Hmm.
+
+[Jonathan Wrobel] 11:48:57
+But, and at the end, and I actually push it to do, like, can you actually do end-to-end testing? Um, which I will see what it is. In this case, it'll have to, like, publish, look at it locally, um, uh…
+
+[Nick Ziegler] 11:49:06
+Mm-hmm.
+
+[Jonathan Wrobel] 11:49:07
+And I feel like the more time you put into, like.
+
+[Jonathan Wrobel] 11:49:11
+you know, we could spend, like, 5 minutes, like, honing on this a little bit more, but we're getting out of time, we're kind of way over. But, like, um…
+
+[Nick Ziegler] 11:49:17
+Mm-hmm.
+
+[Jonathan Wrobel] 11:49:20
+But we'll see what it does without it, and we can try next time, like, if we want to try it again with a more.
+
+[Jonathan Wrobel] 11:49:26
+Well, you know, less just full generated stuff, but we'll see.
+
+[Nick Ziegler] 11:49:29
+Yeah.
+
+[Nick Ziegler] 11:49:31
+Cool, okay.
+
+[Jonathan Wrobel] 11:49:34
+Okay, this is it. You want on your slot machine?
+
+[Jonathan Wrobel] 11:49:39
+It had no humans.
+
+[Nick Ziegler] 11:49:42
+Yeah, yeah.
+
+[Jonathan Wrobel] 11:49:44
+So it didn't go that direction. But look, look, it did get to that.
+
+[Nick Ziegler] 11:49:48
+And to get to that.
+
+[Jonathan Wrobel] 11:49:51
+It's kind of clever.
+
+[Nick Ziegler] 11:49:52
+Uh-huh.
+
+[Jonathan Wrobel] 11:49:54
+Oh, AI coming to life, a face of one human.
+
+[Nick Ziegler] 11:49:58
+Okay.
+
+[Jonathan Wrobel] 11:50:00
+Oh my god, that's freaky.
+
+[Jonathan Wrobel] 11:50:08
+What?
+
+[Jonathan Wrobel] 11:50:10
+It's the I, is it? I imposter syndrome.
+
+[Nick Ziegler] 11:50:16
+Okay.
+
+[Nick Ziegler] 11:50:18
+Interesting. It's going much more…
+
+[Nick Ziegler] 11:50:22
+I don't know, like symbolic with.
+
+[Nick Ziegler] 11:50:26
+With things rather than.
+
+[Jonathan Wrobel] 11:50:28
+Yeah.
+
+[Nick Ziegler] 11:50:28
+Yeah, I took it very literally. This is like.
+
+[Jonathan Wrobel] 11:50:32
+This is my favorite part. We're going to do this. We'll do this one thing. All right. Be honest.
+
+[Nick Ziegler] 11:50:33
+Symbolism.
+
+[Jonathan Wrobel] 11:50:38
+Do you like yours?
+
+[Jonathan Wrobel] 11:50:40
+Or…
+
+[Jonathan Wrobel] 11:50:42
+This one that ChatGPT created.
+
+[Jonathan Wrobel] 11:50:53
+Suck it.
+
+[Jonathan Wrobel] 11:51:04
+Uh… sorry. This is the weird thing about, like, what is… so what's… describe what's actually happening. So, there's a bunch of weighted…
+
+[Jonathan Wrobel] 11:51:12
+concepts and words in multidimensional space of, like, a thousand dimensions, and we just added.
+
+[Jonathan Wrobel] 11:51:19
+Several words and an image.
+
+[Jonathan Wrobel] 11:51:25
+Oh, my honest take.
+
+[Nick Ziegler] 11:51:29
+Okay.
+
+[Jonathan Wrobel] 11:51:30
+It's a genuinely good idea. The prompt flowing into a waveform into a mic is a nice, smart one-line story.
+
+[Jonathan Wrobel] 11:51:39
+Build in public, talk and publish. The narrative is stronger than any single one of my five. Okay. But the actual logo has real problems. The gradient is slops, slop tail, orange, magenta, purple, sweeping across everything is default AI. Look, I'll date fast and it flights itself. The eye doesn't know where to land.
+
+[Jonathan Wrobel] 11:51:56
+It won't survive being an avatar. GitHub renders org avatars at 46. The mic waveform wiggles and the tagline all turn to mush. A good avatar has to read. Okay. It's doing three jobs at once. Icon, wordmark, tagline.
+
+[Jonathan Wrobel] 11:52:11
+That's a cover art, not a mark. You can't stab… you can't stab it on a repo, a sticker, or a favicon.
+
+[Jonathan Wrobel] 11:52:18
+Okay. Each letter's different color is decoration, not meaning. Mine are more disciplined in Avatar first, but honestly, a couple are too quiet.
+
+[Jonathan Wrobel] 11:52:28
+So I don't think you have to choose. The right move is to steal its concept and fix the execution. Keep the waveform, Mike Line, as you…
+
+[Jonathan Wrobel] 11:52:36
+as your own icon, but I kill the gradient for one confident accent, simplify the waveform to 3-4 beats so it reads small, split it into a tight square.
+
+[Jonathan Wrobel] 11:52:49
+Okay, but I actually wanted… should we give it a shot?
+
+[Nick Ziegler] 11:52:53
+Yeah.
+
+[Jonathan Wrobel] 11:52:54
+Now we're at, yeah, we're going way over. See, this is a real example.
+
+[Nick Ziegler] 11:52:58
+This is a real example. Yeah.
+
+[Jonathan Wrobel] 11:52:59
+Of like, but we're so close, we should — when do you stop? This is — we're over an hour in schedule. And I think this is kind of an example of why AI coding is addicting. And also, is it fast? No.
+
+[Nick Ziegler] 11:53:07
+Yep.
+
+[Nick Ziegler] 11:53:14
+Yeah. Okay.
+
+[Nick Ziegler] 11:53:15
+Yeah. Okay.
+
+[Jonathan Wrobel] 11:53:16
+Do you agree with this? Each letter a different color is decoration, not meaning.
+
+[Jonathan Wrobel] 11:53:20
+It's, like, challenging us. We just liked it because it was.
+
+[Nick Ziegler] 11:53:22
+Mm-hmm, mm-hmm.
+
+[Nick Ziegler] 11:53:24
+Declaration, I mean.
+
+[Jonathan Wrobel] 11:53:26
+What do you feel?
+
+[Jonathan Wrobel] 11:53:28
+Does it have meaning?
+
+[Nick Ziegler] 11:53:29
+No, no, I don't think it does. Yeah, we just liked how it looked.
+
+[Jonathan Wrobel] 11:53:34
+But is that, why does that have to have more meaning than that?
+
+[Nick Ziegler] 11:53:37
+Right. Yeah.
+
+[Jonathan Wrobel] 11:53:39
+It's interesting. All right.
+
+[Jonathan Wrobel] 11:53:43
+Well…
+
+[Jonathan Wrobel] 11:53:44
+the point is, let's go with what we have, and then we'll update it next week with… we'll finish this. Um, and…
+
+[Nick Ziegler] 11:53:47
+Yeah.
+
+[Nick Ziegler] 11:53:51
+Yeah.
+
+[Jonathan Wrobel] 11:53:54
+Well, actually, no, because… well, we'll do that, we'll…
+
+[Jonathan Wrobel] 11:53:57
+My takeaway will be this. I will…
+
+[Jonathan Wrobel] 11:54:02
+I will get you two versions of these websites and you have to pick one.
+
+[Nick Ziegler] 11:54:07
+Okay.
+
+[Jonathan Wrobel] 11:54:08
+Just you, by yourself.
+
+[Nick Ziegler] 11:54:09
+Okay. Okay.
+
+[Jonathan Wrobel] 11:54:10
+Or your family. Or your four-year-old.
+
+[Jonathan Wrobel] 11:54:14
+And so I will complete this, and I'll send you a link. Um, and then your job then…
+
+[Jonathan Wrobel] 11:54:20
+will be to run the Orchestrator and create the website using the skill.
+
+[Nick Ziegler] 11:54:26
+Mhmm. Cool. Okay. Yeah. Yeah.
+
+[Jonathan Wrobel] 11:54:28
+Okay.
+
+[Jonathan Wrobel] 11:54:30
+So do you have the skill? Were you able to download that skill?
+
+[Nick Ziegler] 11:54:34
+I don't have it yet, but I will download it.
+
+[Jonathan Wrobel] 11:54:37
+Okay, so…
+
+[Jonathan Wrobel] 11:54:40
+but basically, you know, I will… I will post how to use a skill, what to do, and it'll be in our team brain. It'll be like, Nick, do this. And then I want you to run it and see how… what you learn, see what works, what doesn't, and um… and that way we'll come back. And so next week.
+
+[Nick Ziegler] 11:54:46
+Okay.
+
+[Nick Ziegler] 11:54:52
+Okay.
+
+[Jonathan Wrobel] 11:54:55
+But don't, like, just let it run and see how far it gets. Um, and then we'll, we'll, we'll get a report back next week. So my guts would hand off you to two different design docs, or, you know, Claude design mocks. You pick one of them, and you attach it to the issue.
+
+[Nick Ziegler] 11:55:02
+Mm-hmm.
+
+[Jonathan Wrobel] 11:55:12
+Like, to the issue, or you make it available to Claude to run?
+
+[Nick Ziegler] 11:55:15
+Okay, yeah.
+
+[Jonathan Wrobel] 11:55:17
+Is that fair? Is that a good ending?
+
+[Nick Ziegler] 11:55:18
+That's fair, yeah, yeah.
+
+[Jonathan Wrobel] 11:55:20
+Okay.
+
+[Jonathan Wrobel] 11:55:21
+Alright, we are at 5 minutes over.
+
+[Jonathan Wrobel] 11:55:26
+Alright, um…
+
+[Nick Ziegler] 11:55:26
+Awesome.
+
+[Jonathan Wrobel] 11:55:27
+I'm gonna I'm gonna stop I'm gonna stop the recording, and I have to oh my god. Where is it? Where is the recording? It's over here.
+
+[Jonathan Wrobel] 11:55:38
+I'll stop that.
+
+[Jonathan Wrobel] 11:55:42
+We will download…
+
+[Jonathan Wrobel] 11:55:44
+Save transcript.
+
