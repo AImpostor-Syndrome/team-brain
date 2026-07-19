@@ -1,15 +1,35 @@
 ---
-title: Branding assets
+title: Branding
 ---
 
 # Branding
 
-Visual source-of-truth for AImpostor Syndrome — the images that seed the website's design.
+Visual source-of-truth for AImpostor Syndrome, and the jump-off bundles for building the
+website. A Claude Design export gave us two brand directions; we split them into two
+self-contained bundles so each can be built into a full website version independently.
 
-Drop the initial branding image here (logo, palette board, or mood image), then reference it
-from the design brief in [`../specs/1a-github-pages.md`](../specs/1a-github-pages.md) and attach
-it to [issue #1](https://github.com/AImpostor-Syndrome/website/issues/1).
+## What's here
 
-## Assets
+| Folder | What it is |
+|---|---|
+| [`aimpostor-syndrome-branding-avatar/`](aimpostor-syndrome-branding-avatar/) | **Source bundle** — the original Claude Design export (both directions + shared assets). The source of truth; leave it intact. |
+| [`option-gradient/`](option-gradient/) | **Jump-off — Gradient direction.** Violet→pink→coral, gradient-forward. Self-contained; hand to Claude Design to build a website. |
+| [`option-solid-violet/`](option-solid-violet/) | **Jump-off — Solid Violet direction.** One restrained violet, no gradients. Self-contained; hand to Claude Design to build a website. |
 
-*None yet — the first branding image goes here.*
+## The two directions at a glance
+
+| | Gradient | Solid Violet |
+|---|---|---|
+| Feel | Vibrant, energetic | Restrained, clean |
+| Color | Violet `#8B5CF6` → pink `#E0559B` → coral `#FF6B5E` | Single violet `#9B7CFF` / `#7C5CF0` |
+| Gradients | Load-bearing | Almost none |
+| Shared | Dark ground `#0D1017`, cream `#F7F6F2`, same avatar/banner/lockup |
+
+## The plan
+
+1. Jonathan hands each `option-*/` bundle + the [design brief](../specs/1a-github-pages.md) to
+   Claude Design → **two built website versions.**
+2. The builds land under `website-builds/<direction>/` (created when they exist), side by side.
+3. Nick (or Jonathan) picks one; its spec is attached to
+   [issue #1](https://github.com/AImpostor-Syndrome/website/issues/1) and built via
+   `full-path-github`.
