@@ -1,0 +1,294 @@
+<title>Tracer Bullet — Dependency Flow</title>
+<style>
+  :root {
+    --ground: #f4f6f9;
+    --panel: #ffffff;
+    --ink: #17202e;
+    --slate: #5b6b7f;
+    --slate-soft: #8494a6;
+    --hair: #dbe1e9;
+    --wire: #2f6df6;
+    --wire-soft: #e4edff;
+    --defer: #b07818;
+    --defer-soft: #fbf1de;
+    --ship: #12946a;
+    --ship-soft: #daf3e9;
+    --mono: ui-monospace, "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #0e141d;
+      --panel: #161f2b;
+      --ink: #e7edf5;
+      --slate: #9fb0c3;
+      --slate-soft: #6a7c90;
+      --hair: #263241;
+      --wire: #5c93ff;
+      --wire-soft: #17263f;
+      --defer: #d9a441;
+      --defer-soft: #2a2213;
+      --ship: #3fc290;
+      --ship-soft: #10261e;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #f4f6f9; --panel: #ffffff; --ink: #17202e; --slate: #5b6b7f;
+    --slate-soft: #8494a6; --hair: #dbe1e9; --wire: #2f6df6; --wire-soft: #e4edff;
+    --defer: #b07818; --defer-soft: #fbf1de; --ship: #12946a; --ship-soft: #daf3e9;
+  }
+  :root[data-theme="dark"] {
+    --ground: #0e141d; --panel: #161f2b; --ink: #e7edf5; --slate: #9fb0c3;
+    --slate-soft: #6a7c90; --hair: #263241; --wire: #5c93ff; --wire-soft: #17263f;
+    --defer: #d9a441; --defer-soft: #2a2213; --ship: #3fc290; --ship-soft: #10261e;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--sans);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: clamp(1.5rem, 4vw, 3.5rem) 1.25rem 4rem; }
+
+  header { margin-bottom: 2.5rem; }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: .72rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--wire);
+    margin: 0 0 .6rem;
+  }
+  h1 {
+    font-size: clamp(1.5rem, 3.4vw, 2.15rem);
+    line-height: 1.15;
+    margin: 0 0 .7rem;
+    text-wrap: balance;
+    letter-spacing: -.01em;
+  }
+  .lede {
+    max-width: 62ch;
+    color: var(--slate);
+    font-size: 1.02rem;
+    margin: 0;
+  }
+  .lede strong { color: var(--ink); font-weight: 600; }
+
+  /* legend */
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 1.1rem 1.6rem;
+    margin: 1.6rem 0 0;
+    padding: .9rem 1.1rem;
+    background: var(--panel);
+    border: 1px solid var(--hair);
+    border-radius: 10px;
+  }
+  .legend div { display: flex; align-items: center; gap: .5rem; font-family: var(--mono); font-size: .76rem; color: var(--slate); }
+  .swatch { width: 26px; height: 8px; border-radius: 2px; flex: none; }
+  .swatch.wire { background: var(--wire); }
+  .swatch.defer { background: var(--defer); }
+  .swatch.ship { background: var(--ship); }
+  .swatch.dep { background: repeating-linear-gradient(90deg, var(--slate-soft) 0 4px, transparent 4px 8px); height: 2px; align-self: center; }
+
+  /* the flow */
+  .flow { position: relative; margin-top: 2.5rem; }
+  .flow-scroll { overflow-x: auto; }
+  .grid { min-width: 620px; }
+
+  .stage { position: relative; }
+  .stage-label {
+    font-family: var(--mono);
+    font-size: .74rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--slate-soft);
+    margin: 0 0 .8rem;
+    display: flex; align-items: center; gap: .6rem;
+  }
+  .stage-label::after { content: ""; flex: 1; height: 1px; background: var(--hair); }
+
+  .row { display: grid; gap: 1.1rem; }
+  .row.two { grid-template-columns: 1fr 1fr; }
+
+  .node {
+    background: var(--panel);
+    border: 1px solid var(--hair);
+    border-left: 3px solid var(--slate-soft);
+    border-radius: 10px;
+    padding: 1rem 1.15rem 1.1rem;
+  }
+  .node.crit { border-left-color: var(--wire); }
+  .node.end { border-left-color: var(--ship); background: linear-gradient(180deg, var(--ship-soft), var(--panel) 70%); }
+
+  .node .id {
+    font-family: var(--mono);
+    font-size: .74rem;
+    font-weight: 700;
+    letter-spacing: .04em;
+    color: var(--wire);
+    display: block;
+    margin-bottom: .25rem;
+  }
+  .node.end .id { color: var(--ship); }
+  .node h3 { font-size: 1.02rem; margin: 0 0 .5rem; letter-spacing: -.005em; }
+  .node p { margin: 0; color: var(--slate); font-size: .9rem; }
+
+  /* sub-items inside US-1 */
+  .subs { list-style: none; margin: .7rem 0 0; padding: 0; display: flex; flex-direction: column; gap: .4rem; }
+  .subs li {
+    display: flex; align-items: baseline; gap: .55rem;
+    font-size: .86rem; color: var(--ink);
+    padding: .4rem .55rem;
+    border-radius: 6px;
+    background: var(--wire-soft);
+  }
+  .subs li.cut { background: var(--defer-soft); color: var(--defer); }
+  .subs .sid { font-family: var(--mono); font-weight: 700; font-size: .76rem; flex: none; }
+  .subs li.crit .sid { color: var(--wire); }
+  .subs li.cut .sid { color: var(--defer); }
+
+  .io { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .75rem; }
+  .io span {
+    font-family: var(--mono); font-size: .72rem;
+    padding: .2rem .5rem; border-radius: 5px;
+    border: 1px solid var(--hair); color: var(--slate);
+    background: var(--ground);
+  }
+  .io span b { color: var(--ink); font-weight: 600; }
+
+  .tag {
+    display: inline-block;
+    font-family: var(--mono); font-size: .66rem; letter-spacing: .09em;
+    text-transform: uppercase; font-weight: 700;
+    padding: .18rem .5rem; border-radius: 999px; margin-top: .8rem;
+  }
+  .tag.crit { color: var(--wire); background: var(--wire-soft); }
+  .tag.cut { color: var(--defer); background: var(--defer-soft); }
+
+  /* connectors */
+  .connector { display: flex; flex-direction: column; align-items: center; color: var(--slate-soft); }
+  .connector svg { display: block; }
+  .parallel-note {
+    text-align: center; font-family: var(--mono); font-size: .72rem;
+    color: var(--slate-soft); margin: .3rem 0 0;
+  }
+  .brace {
+    position: relative; text-align: center;
+    font-family: var(--mono); font-size: .73rem; color: var(--slate);
+    margin: 1rem 0 .4rem; padding-top: 1rem;
+  }
+  .brace::before {
+    content: ""; position: absolute; top: 0; left: 25%; right: 25%;
+    height: 12px; border: 1px solid var(--hair); border-bottom: none;
+    border-radius: 8px 8px 0 0;
+  }
+
+  .footnote {
+    margin-top: 2.6rem; padding-top: 1.3rem; border-top: 1px solid var(--hair);
+    font-size: .88rem; color: var(--slate); max-width: 64ch;
+  }
+  .footnote code { font-family: var(--mono); font-size: .82em; background: var(--panel); padding: .1rem .35rem; border-radius: 4px; border: 1px solid var(--hair); }
+
+  @media (max-width: 620px) {
+    .row.two { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">AImpostor Syndrome · Session 2 · 2026-07-18</p>
+    <h1>First tracer bullet — dependency flow</h1>
+    <p class="lede">A hand-written session doc becomes an AI-drafted blog post, published to a live page that embeds and plays the episode's video. One thin slice through the whole system — <strong>no video processing yet</strong> — to prove the publish pipeline before taking on the expensive parts.</p>
+
+    <div class="legend" aria-label="Legend">
+      <div><span class="swatch wire"></span> Critical path</div>
+      <div><span class="swatch defer"></span> Deferred — first to cut</div>
+      <div><span class="swatch ship"></span> Shipped artifact</div>
+      <div><span class="swatch dep"></span> Dependency</div>
+    </div>
+  </header>
+
+  <div class="flow">
+    <div class="flow-scroll">
+      <div class="grid">
+
+        <div class="stage">
+          <p class="stage-label">Build in parallel</p>
+          <div class="row two">
+
+            <div class="node crit">
+              <span class="id">US-1</span>
+              <h3>The website exists</h3>
+              <p>A place to publish, and a template to fill. No AI, no upstream dependencies — so it can start immediately.</p>
+              <ul class="subs">
+                <li class="crit"><span class="sid">1a</span> GitHub Pages site, publishing</li>
+                <li class="crit"><span class="sid">1c</span> Post template — embeds &amp; plays a YouTube video, shows the summary</li>
+                <li class="cut"><span class="sid">1b</span> &lsquo;About us&rsquo; / landing page — doesn&rsquo;t block an episode</li>
+              </ul>
+              <span class="tag crit">In scope: 1a · 1c</span>
+            </div>
+
+            <div class="node crit">
+              <span class="id">US-2</span>
+              <h3>AI drafts a blog post</h3>
+              <p>The one AI step. Summarizes the session doc we already write by hand — not a transcript. A <em>proposed</em> draft a human approves.</p>
+              <div class="io">
+                <span>in: <b>session doc</b></span>
+                <span>out: <b>draft.md</b></span>
+                <span>runs <b>locally</b></span>
+              </div>
+              <span class="tag crit">Decision 0005 · local run</span>
+            </div>
+
+          </div>
+          <p class="parallel-note">US-1 and US-2 are independent — they meet at US-3</p>
+        </div>
+
+        <div class="brace">converge</div>
+        <div class="connector" aria-hidden="true">
+          <svg width="24" height="40" viewBox="0 0 24 40" fill="none">
+            <path d="M12 0 V32" stroke="var(--wire)" stroke-width="2"/>
+            <path d="M4 26 L12 34 L20 26" stroke="var(--wire)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+
+        <div class="stage">
+          <p class="stage-label">Then</p>
+          <div class="row">
+            <div class="node crit">
+              <span class="id">US-3</span>
+              <h3>Publish the post</h3>
+              <p>Human reviews the draft &rarr; commit &rarr; Pages builds &rarr; a public episode page, linked to and playing the video. Needs <b>1c</b> (the template) and <b>US-2</b> (the draft).</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="connector" aria-hidden="true">
+          <svg width="24" height="40" viewBox="0 0 24 40" fill="none">
+            <path d="M12 0 V32" stroke="var(--ship)" stroke-width="2"/>
+            <path d="M4 26 L12 34 L20 26" stroke="var(--ship)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+
+        <div class="stage">
+          <div class="row">
+            <div class="node end">
+              <span class="id">SHIPPED</span>
+              <h3>A public episode page</h3>
+              <p>Plays the episode's YouTube video and shows an AI-drafted summary. The tracer bullet has pierced every layer: input &rarr; AI &rarr; public URL.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <p class="footnote">
+    Scope is deliberately thin. Transcription (Whisper) is the phase-2 swap — we change the <em>input</em> once the pipeline works. First to cut if the hour runs short: the <code>1b</code> landing page. Full write-up lives in <code>projects/aimpostor-syndrome/</code> and <code>decisions/0005</code>.
+  </p>
+</div>

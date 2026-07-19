@@ -17,6 +17,8 @@ An agent about to contradict a past call should find it here first.
 
 | Date | Decision | Rules out |
 |---|---|---|
+| 2026-07-18 | [The website is a separate repo; the brain reads, the website publishes](0006-blog-is-a-separate-repo.md) | Website code in team-brain; serving the brain on Pages |
+| 2026-07-18 | [Processing runs locally for the tracer bullet, not hosted](0005-process-locally-for-now.md) | Cloud infra / scheduled jobs for the first slice; "always-on" in the definition of done |
 | 2026-07-13 | [The project is AImpostor Syndrome — impostor with an "o"](0004-project-name.md) | The `imposter` spelling; the name IMPOSTRS.AI; extra defensive TLDs |
 | 2026-07-12 | [Session videos are uploaded by hand; we automate the metadata](0003-manual-youtube-upload.md) | `videos.insert`; browser-automating YouTube (ToS violation) |
 | 2026-07-12 | [Weekend sessions, one hour, option to run over](0002-weekend-sessions-one-hour.md) | Weeknight sessions; a hard 60-minute stop |
