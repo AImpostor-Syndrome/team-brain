@@ -14,6 +14,10 @@ covers the audio that ships to YouTube, the transcript, the episode metadata, an
 [decision 0001](../../decisions/0001-brain-holds-reasoning-not-code.md). This page holds the
 reasoning and the open decisions.
 
+That repo is private under a personal account and will 404 for the rest of the team. It
+belongs in the `AImpostor-Syndrome` org; nobody with create rights was around when it was
+made. Transfer it and update this link.
+
 The guest is on camera in a screen share and he speaks, so face, name, and voice are all in
 scope. An earlier draft of this page proposed deferring video to a later phase on the theory
 that anonymized guests would keep cameras off. That does not apply to this recording.
