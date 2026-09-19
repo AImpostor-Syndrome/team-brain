@@ -13,6 +13,7 @@ to hand work to should be able to decide from this page alone.
 |---|---|---|
 | Jonathan Wrobel | Engineer. Co-host. | [`jonathan/`](jonathan/) |
 | Nick | Engineer. Co-host. | [`nick/`](nick/) |
+| Luke | Engineer. Building the anonymizer. | [`luke/`](luke/) |
 
 Agent members go here too, on equal footing — an orchestrator is a teammate, and the
 handoff rules for one should read the same as for the other.
