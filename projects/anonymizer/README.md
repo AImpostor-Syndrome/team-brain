@@ -1,7 +1,7 @@
 ---
 title: Anonymizer
 status: active
-phase: Phase 0, plan under review
+phase: Phase 1, building
 ---
 
 # Anonymizer
@@ -9,8 +9,14 @@ phase: Phase 0, plan under review
 Lets a guest speak on the record without being identifiable in the published episode. It
 covers the audio that ships to YouTube, the transcript, the episode metadata, and this brain.
 
-**Status: nothing is built.** This page is a plan written for Jonathan, Nick, and Luke to
-review. Three decisions below need the team before any code gets written.
+**Status: building today, against a real recording.** The build spec lives in
+[`lukearmistead/anonymizer`](https://github.com/lukearmistead/anonymizer) per
+[decision 0001](../../decisions/0001-brain-holds-reasoning-not-code.md). This page holds the
+reasoning and the open decisions.
+
+The guest is on camera in a screen share and he speaks, so face, name, and voice are all in
+scope. An earlier draft of this page proposed deferring video to a later phase on the theory
+that anonymized guests would keep cameras off. That does not apply to this recording.
 
 ## Two examples worth copying
 
@@ -69,18 +75,62 @@ Naming this explicitly because it is exactly the file someone adds later for con
 ## How a guest moves through it
 
 1. **Before recording.** Consent captured, pseudonym assigned, and Zoom set to record a
-   separate audio file per participant. That setting is capture-time only. Without it we are
-   separating voices out of a mixed track afterward, which is lossy and will leak. It gates
-   everything below.
-2. **During.** Hosts use the pseudonym out loud. Guest camera stays off (see decision 3).
-3. **After.** Transcribe the guest's isolated track, scrub direct and indirect identifiers,
-   paraphrase where a turn of phrase is distinctive, re-voice the scrubbed transcript, mix the
-   new track against the host tracks.
-4. **Before publish.** Leak check, then a human listen-back, then the guest reviews and can
-   still withdraw. After upload, withdrawal is not fully possible and the consent form has to
-   say so.
-5. **Publish.** Manual upload as unlisted, leak check the live artifact, then public. The
-   manual upload in [0003](../../decisions/0003-manual-youtube-upload.md) is a safety feature here: a human is the last gate.
+   separate audio file per participant. That setting is capture-time only and it is a hard
+   gate, not a preference. With his isolated track we edit his audio directly. Without it we
+   have to find him inside a mixed track, which needs diarization and leaks at every boundary.
+2. **During.** Hosts use the pseudonym out loud. Screen-share layout stays put, because layout
+   changes are what break a fixed mask.
+3. **After.** The pipeline runs automatically when the recording finishes saving.
+4. **Before publish.** Judge report, then a human watches the masked video and scans a contact
+   sheet, then the guest reviews and can still withdraw. After upload, withdrawal is not fully
+   possible and the consent form has to say so.
+5. **Publish.** Manual upload as unlisted, check the live artifact, then public. The manual
+   upload in [0003](../../decisions/0003-manual-youtube-upload.md) is a safety feature here: a
+   human is the last gate.
+
+## What the pipeline does
+
+Nine stages, each re-runnable. Full spec in the implementation repo.
+
+| Stage | What it does |
+|---|---|
+| probe | Refuses to continue if per-participant audio is missing |
+| detect-faces | Samples the video at low confidence, unions every box found |
+| mask | Fills that union region black for the whole duration |
+| transcribe | Word-level timestamps, guest track and mixed track separately |
+| flag | Model proposes spans to cut, **human approves**, not autonomous |
+| redact-audio | Mutes approved spans in place, never cuts |
+| revoice | Replaces his track with synthesized speech on the original timings |
+| verify | Re-transcribes and re-detects against the output file |
+| judge | Separate process, reads evidence, passes or fails closed |
+
+Two choices in there are load-bearing. **The mask is a static union region, not a tracker,**
+because a tracker that drops one frame leaks that frame while a fixed rectangle cannot. **The
+audio is muted rather than cut,** because cutting shortens the track and desyncs it from the
+video permanently.
+
+## Running it automatically
+
+The trigger is separate from the pipeline, and that separation is the point. Today a local
+watcher on `~/Documents/Zoom` fires when a recording finishes saving. Later a storage event
+fires the identical command in a hosted job.
+
+Zoom writes the file progressively and then runs a conversion pass after the meeting ends, so
+the watcher waits for the file size to hold steady rather than for the file to appear.
+
+**The hosted phase has a constraint worth deciding early:** the pipeline sees unredacted media
+and the identity list, so whatever hosts it inherits the full trust requirement. That is a
+decision, not a deployment detail.
+
+## The judge
+
+A separate process that reads evidence and cannot change anything, because the thing that did
+the work should not grade the work. It fails closed: any error is a failure.
+
+Its report is itself a leak risk. A line reading `found "<real name>" at 00:14:32` is the
+mapping, written to a file. The report carries timestamps, match counts, and salted hashes of
+matched terms, never the terms. It runs locally only, because its inputs include the identity
+list.
 
 ## The acceptance gate
 
@@ -89,20 +139,16 @@ that ships. It is the only check that catches all four failures at once: a host 
 real name aloud, a region the transform missed, an editing mistake, and a mixdown that
 reintroduces the raw track. Same lesson as 0003: check the channel, not the response code.
 
-The check fails closed on any hit from the identity list. No skill in this pipeline is done
+The video equivalent matters just as much: re-run face detection on the **output**, at a higher
+sample rate than was used to build the mask, and require zero hits.
+
+The check fails closed on any hit from the identity list. No stage in this pipeline is done
 until it passes this on a real file.
 
-## Skills this decomposes into
-
-Specs get written when each is built, not now. Listing them so the shape is visible.
-
-| Skill | Does | Deterministic? |
-|---|---|---|
-| `capture-consent` | Records pseudonym, level, retention clock. Writes the private mapping, never to this repo | Yes |
-| `scrub-transcript` | Removes direct identifiers, flags indirect ones for a human, paraphrases distinctive phrasing | No, calls a model |
-| `revoice-guest` | Scrubbed transcript plus isolated track to a new non-invertible audio track | No |
-| `leak-check` | Re-transcribes the final render, greps every artifact against the identity list, fails closed | Yes |
-| [`youtube-publish-session`](../../skills/youtube-publish-session.md) | Already proposed. Needs teaching that guest names never reach titles, descriptions, or chapters | Mostly |
+The screen share is a bigger leak surface than the face. A shared screen leaks Slack sidebars,
+mail, calendar invites, browser tabs, git blame. Scanning every frame with OCR is a later job.
+The control now is a contact sheet, one thumbnail every five seconds in a grid, read by a
+person.
 
 ## Decisions we need from the three of us
 
@@ -113,10 +159,9 @@ Proposed, not decided. Each would be expensive to reverse, so each gets a doc.
    since that is who a reticent guest is usually hiding from.
 2. **Consent, retention, and where the mapping lives.** What the guest agrees to, how long we
    keep raw files, and which private store holds the mapping.
-3. **Camera off for anonymized guests.** Recommendation: yes. Chechnya shows face replacement
-   works and it took a VFX team. Camera off costs nothing, cannot fail, and deletes an entire
-   workstream. It also costs the guest presence on a video podcast, so it is the team's call,
-   not mine.
+3. **Camera policy going forward.** Today we mask a face that is already recorded. For future
+   sessions, camera off costs nothing and cannot fail, while masking is work that can fail.
+   Worth setting as the default and treating today as the exception.
 
 Open question underneath decision 1: a human actor reads with real emotion and is completely
 non-invertible, but costs money and scheduling. Synthesizing from text is cheap and flattens
@@ -125,21 +170,24 @@ and protects less. Worth trying all three on one paragraph before committing.
 
 ## Build order
 
-**Phase 1, audio only, one guest.** Consent, per-speaker capture, scrub, re-voice, leak check,
-unlisted upload. First run is a dry run with one of us playing the reticent guest, all the way
-through the leak check. The working agreement is that a skill isn't done until a non-author
-runs it, and that applies harder when the failure is a person getting outed.
+**Today.** Mask, transcribe, flag, redact, verify, judge, on this recording, run by hand.
+Re-voicing last, because verification is what tells you whether anything else worked. If
+re-voicing does not land, ship with his speech muted and captioned. That is ugly and it is
+completely non-invertible, which is the property that matters. A pitch shift is not a
+substitute, since shifting back undoes it.
 
-**Phase 2, the brain's own schema.** `sessions/` frontmatter is `present: [jonathan, nick]`, a
-list of team slugs, and `team/` is one folder per member. A reticent guest is neither. Add a
-`guests:` field holding pseudonyms only, and a rule that `team/` never gets a folder for one.
+**Next.** The local watcher, then a launchd job, then hosting.
 
-**Phase 3, video.** Only if a guest needs to be on camera and decision 3 goes the other way.
+**Then, the brain's own schema.** `sessions/` frontmatter is `present: [jonathan, nick]`, a
+list of team slugs, and `team/` is one folder per member. A guest is neither. Add a `guests:`
+field holding pseudonyms only, and a rule that `team/` never gets a folder for one.
 
 ## Out of scope
 
 - **Anonymizing the hosts.** Different problem, and nobody has asked.
 - **Live or real-time anonymization.** Everything here is post-production.
+- **OCR over every frame of the screen share.** Deferred to the hosted phase. A contact sheet
+  and a person cover it today.
 - **Protecting a guest from a state-level adversary.** Chechnya had a VFX team, a legal team,
   and an evacuation plan. If someone's safety depends on this, the honest answer is that we
   are not equipped and they should talk to an organization that is.
