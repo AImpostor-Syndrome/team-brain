@@ -10,13 +10,11 @@ Lets a guest speak on the record without being identifiable in the published epi
 covers the audio that ships to YouTube, the transcript, the episode metadata, and this brain.
 
 **Status: building today, against a real recording.** The build spec lives in
-[`lukearmistead/anonymizer`](https://github.com/lukearmistead/anonymizer) per
+[`AImpostor-Syndrome/anonymizer`](https://github.com/AImpostor-Syndrome/anonymizer) per
 [decision 0001](../../decisions/0001-brain-holds-reasoning-not-code.md). This page holds the
 reasoning and the open decisions.
 
-That repo is private under a personal account and will 404 for the rest of the team. It
-belongs in the `AImpostor-Syndrome` org; nobody with create rights was around when it was
-made. Transfer it and update this link.
+That repo is private. Everyone in the org can read it.
 
 The guest is on camera in a screen share and he speaks. An earlier draft of this page proposed
 deferring video to a later phase on the theory that anonymized guests would keep cameras off.
@@ -26,7 +24,7 @@ That does not apply to this recording.
 the mask is an accepted cost. Bleeping personal references out of the audio is P0. A human
 reviewing and approving the locked render before publish is P0. **Voice anonymization is P2 and
 is not required to publish this video.** Work is tracked as
-[issues on the implementation repo](https://github.com/lukearmistead/anonymizer/issues).
+[issues on the implementation repo](https://github.com/AImpostor-Syndrome/anonymizer/issues).
 
 ## Two examples worth copying
 
