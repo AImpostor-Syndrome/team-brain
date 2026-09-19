@@ -12,6 +12,7 @@ it stands, what's next.
 | Project | What it is | Status |
 |---|---|---|
 | [`aimpostor-syndrome/`](aimpostor-syndrome/) | The system that publishes the story of us building it | Phase 1 — Capture |
+| [`anonymizer/`](anonymizer/) | Lets a reticent guest speak on an episode without being identifiable | Phase 0, plan under review |
 
 ## Adding a project
 
