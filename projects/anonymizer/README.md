@@ -18,9 +18,15 @@ That repo is private under a personal account and will 404 for the rest of the t
 belongs in the `AImpostor-Syndrome` org; nobody with create rights was around when it was
 made. Transfer it and update this link.
 
-The guest is on camera in a screen share and he speaks, so face, name, and voice are all in
-scope. An earlier draft of this page proposed deferring video to a later phase on the theory
-that anonymized guests would keep cameras off. That does not apply to this recording.
+The guest is on camera in a screen share and he speaks. An earlier draft of this page proposed
+deferring video to a later phase on the theory that anonymized guests would keep cameras off.
+That does not apply to this recording.
+
+**Priorities, set 2026-09-19.** Hiding the face is P0, and losing some screen-share content to
+the mask is an accepted cost. Bleeping personal references out of the audio is P0. A human
+reviewing and approving the locked render before publish is P0. **Voice anonymization is P2 and
+is not required to publish this video.** Work is tracked as
+[issues on the implementation repo](https://github.com/lukearmistead/anonymizer/issues).
 
 ## Two examples worth copying
 
@@ -104,14 +110,18 @@ Nine stages, each re-runnable. Full spec in the implementation repo.
 | transcribe | Word-level timestamps, guest track and mixed track separately |
 | flag | Model proposes spans to cut, **human approves**, not autonomous |
 | redact-audio | Mutes approved spans in place, never cuts |
-| revoice | Replaces his track with synthesized speech on the original timings |
 | verify | Re-transcribes and re-detects against the output file |
 | judge | Separate process, reads evidence, passes or fails closed |
+| lock and approve | Freezes the render and records a human approval tied to its hash |
+| revoice | P2. Replaces his track with synthesized speech. Not required to publish |
 
-Two choices in there are load-bearing. **The mask is a static union region, not a tracker,**
-because a tracker that drops one frame leaks that frame while a fixed rectangle cannot. **The
-audio is muted rather than cut,** because cutting shortens the track and desyncs it from the
-video permanently.
+Two choices in there are load-bearing. **The mask is a fixed band across the top of the frame,
+not a tracker,** because a tracker that drops one frame leaks that frame while a band that is
+always there cannot. **The audio is muted rather than cut,** because cutting shortens the track
+and desyncs it from the video permanently.
+
+Nothing publishes without the approval record, and the record is tied to the file hash. Re-render
+after approval and the approval stops applying.
 
 ## Running it automatically
 
