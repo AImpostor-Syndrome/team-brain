@@ -37,6 +37,10 @@ A podcast episode, a lightly edited video, a blog post, a searchable knowledge b
 GitHub update, and the starting point for the next week's work. The long-term goal is for
 nearly all of that to happen automatically.
 
+The rules for editing each session into those formats are in
+[`editorial/`](editorial/) — start with
+[`podcast-editing-rules.md`](editorial/podcast-editing-rules.md).
+
 ## Philosophy
 
 AI is most powerful as a teammate, not a chatbot. Rather than asking a model to "do
